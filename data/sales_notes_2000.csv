@@ -1,0 +1,2001 @@
+id,sales_note,label
+1,Need emergency stock replenishment by friday.,Urgent Need
+2,They are requesting a repeat of the previous order. ASAP,Repeat Order
+3,Exploring samples for a new product line.,New Product Demand
+4,Customized dimension required for part 780Y.,Custom Spec
+5,inventory outage pls expedite shipping if possible,Urgent Need
+6,Requestfor custom color matching on containers.,Custom Spec
+7,"running low on supplies again, please arrange dispatch",Stocking Issue
+8,Need urgent delivery due to market launch next week.,Urgent Need
+9,demo units requested to evaluate updated models,New Product Demand
+10,Rush request for product A45 due to customer escalation,Urgent Need
+11,trialsamples needed for our new eco friendly line,New Product Demand
+12,interest shown in 2025X prototype by client,New Product Demand
+13,Request for non-standard dimension for container.,Custom Spec
+14,Exploringsamples for a new product line.,New Product Demand
+15,custom size requested for container 560Z special handling needed,Custom Spec
+16,inventory outage pls expedite shipping if possible,Urgent Need
+17,Trial order to test new technology batch.,New Product Demand
+18,Placing a repeat request for item series 100X. ASAP,Repeat Order
+19,"Out of stock reported, needs restocking.",Stocking Issue
+20,Exploringsamples for a new product line.,New Product Demand
+21,inventory outage pls expedite shipping if possible,Urgent Need
+22,Rush request for product A45 due to customer escalation,Urgent Need
+23,"Warehouse backorder increasing, please resupply.",Stocking Issue
+24,"running low on supplies again, please arrange dispatch",Stocking Issue
+25,interest shown in 2025X prototype by client,New Product Demand
+26,Client wants another batch of 1000 units like last time.,Repeat Order
+27,Exploring samples for a new product line.,New Product Demand
+28,Need emergency stock replenishment by Friday.,Urgent Need
+29,Exploringsamples for a new product line.,New Product Demand
+30,client needs same order as last month for product 450X,Repeat Order
+31,"running low on supplies again, please arrange dispatch",Stocking Issue
+32,They are requesting a repeat of the previous order.,Repeat Order
+33,First order placed for updated product variant. ASAP,New Product Demand
+34,"Delivery needed immediately, client facing outage.",Urgent Need
+35,Repeatpurchase request for Model 500Y,Repeat Order
+36,trial samples needed for our new eco friendly line,New Product Demand
+37,Rush request for product A45 due to customer escalation,Urgent Need
+38,Client wants another batch of 1000 units like last time.,Repeat Order
+39,Customized dimension required for part 780Y.,Custom Spec
+40,Repeat purchase request for Model 500Y,Repeat Order
+41,"Inventory running low, client requests immediate resupply.",Stocking Issue
+42,Client exploring samples of 2024 line.,New Product Demand
+43,critical shortage reported need shipment by next week,Urgent Need
+44,Specificationchange: needs reinforced packaging.,Custom Spec
+45,Need emergency stock replenishment by Friday.,Urgent Need
+46,demo units requested to evaluate updated models,New Product Demand
+47,Request for custom color matching on containers.,Custom Spec
+48,Client exploring samples of 2024 line.,New Product Demand
+49,"Another batch required urgently, same spec as previous",Repeat Order
+50,"Inventory running low, client requests immediate resupply. ASAP",Stocking Issue
+51,"Warehouse backorder increasing, please resupply.",Stocking Issue
+52,trialsamples needed for our new eco friendly line,New Product Demand
+53,"Out of stock reported, needs restocking.",Stocking Issue
+54,Wants special coating on the exterior.,Custom Spec
+55,Trial samples needed for our new eco friendly line,New Product Demand
+56,First order placed for updated product variant.,New Product Demand
+57,Client exploring samples of 2024 line.,New Product Demand
+58,Trialorder to test new technology batch. ASAP,New Product Demand
+59,Demounits requested to evaluate updated models,New Product Demand
+60,Requestfor non-standard dimension for container.,Custom Spec
+61,Specification change: needs reinforced packaging.,Custom Spec
+62,"Another batch required urgently, same spec as previous",Repeat Order
+63,interest shown in 2025X prototype by client,New Product Demand
+64,"Delivery needed immediately, client facing outage.",Urgent Need
+65,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+66,Clientexploring samples of 2024 line.,New Product Demand
+67,criticalshortage reported need shipment by next week,Urgent Need
+68,Customizeddimension required for part 780Y.,Custom Spec
+69,Need emergency stock replenishment by Friday.,Urgent Need
+70,Request for non-standard dimension for container.,Custom Spec
+71,Trial order to test new technology batch.,New Product Demand
+72,Placing a repeat request for item series 100X.,Repeat Order
+73,Need emergency stock replenishment by Friday.,Urgent Need
+74,They are requesting a repeat of the previous order.,Repeat Order
+75,First order placed for updated product variant.,New Product Demand
+76,First order placed for updated product variant.,New Product Demand
+77,demo units requested to evaluate updated models ASAP,New Product Demand
+78,Wants special coating on the exterior.,Custom Spec
+79,Trial order to test new technology batch.,New Product Demand
+80,Demo units requested to evaluate updated models,New Product Demand
+81,"running low on supplies again, please arrange dispatch",Stocking Issue
+82,Placing a repeat request for item series 100X.,Repeat Order
+83,Need300 more of the units ordered last month.,Repeat Order
+84,Need 300 more of the units ordered last month.,Repeat Order
+85,Need300 more of the units ordered last month.,Repeat Order
+86,"Out of stock reported, needs restocking.",Stocking Issue
+87,Theyare requesting a repeat of the previous order.,Repeat Order
+88,clientneeds same order as last month for product 450X,Repeat Order
+89,Trial order to test new technology batch.,New Product Demand
+90,Rushrequest for product A45 due to customer escalation,Urgent Need
+91,"Out of stock reported, needs restocking.",Stocking Issue
+92,Trial order to test new technology batch.,New Product Demand
+93,"running low on supplies again, please arrange dispatch",Stocking Issue
+94,Needurgent delivery due to market launch next week.,Urgent Need
+95,"Outof stock reported, needs restocking.",Stocking Issue
+96,demo units requested to evaluate updated models,New Product Demand
+97,"Delivery needed immediately, client facing outage.",Urgent Need
+98,Interest shown in 2025x prototype by client,New Product Demand
+99,Trial order to test new technology batch.,New Product Demand
+100,Request for custom color matching on containers.,Custom Spec
+101,Needurgent delivery due to market launch next week.,Urgent Need
+102,Client exploring samples of 2024 line.,New Product Demand
+103,"Inventory running low, client requests immediate resupply.",Stocking Issue
+104,Needurgent delivery due to market launch next week.,Urgent Need
+105,Placing a repeat request for item series 100X.,Repeat Order
+106,"Warehouse backorder increasing, please resupply.",Stocking Issue
+107,Wantsspecial coating on the exterior.,Custom Spec
+108,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+109,custom size requested for container 560Z special handling needed,Custom Spec
+110,Client exploring samples of 2024 line.,New Product Demand
+111,Request for non-standard dimension for container. ASAP,Custom Spec
+112,Client wants another batch of 1000 units like last time.,Repeat Order
+113,Need emergency stock replenishment by Friday.,Urgent Need
+114,Need emergency stock replenishment by Friday.,Urgent Need
+115,Exploring samples for a new product line.,New Product Demand
+116,criticalshortage reported need shipment by next week,Urgent Need
+117,custom size requested for container 560Z special handling needed,Custom Spec
+118,needs reinforced handles on boxes for safety reason,Custom Spec
+119,Repeatpurchase request for Model 500Y,Repeat Order
+120,"running low on supplies again, please arrange dispatch",Stocking Issue
+121,demo units requested to evaluate updated models,New Product Demand
+122,custom size requested for container 560Z special handling needed,Custom Spec
+123,critical shortage reported need shipment by next week,Urgent Need
+124,"Inventory running low, client requests immediate resupply.",Stocking Issue
+125,Rush request for product A45 due to customer escalation,Urgent Need
+126,Client exploring samples of 2024 line.,New Product Demand
+127,First order placed for updated product variant.,New Product Demand
+128,Customized dimension required for part 780Y.,Custom Spec
+129,Request for non-standard dimension for container.,Custom Spec
+130,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+131,Needemergency stock replenishment by Friday.,Urgent Need
+132,Exploring samples for a new product line.,New Product Demand
+133,Request for custom color matching on containers.,Custom Spec
+134,critical shortage reported need shipment by next week,Urgent Need
+135,demo units requested to evaluate updated models,New Product Demand
+136,"running low on supplies again, please arrange dispatch",Stocking Issue
+137,Stockout reported for Model X1.,Stocking Issue
+138,Client wants another batch of 1000 units like last time.,Repeat Order
+139,Specificationchange: needs reinforced packaging.,Custom Spec
+140,"Another batch required urgently, same spec as previous",Repeat Order
+141,Repeat purchase request for Model 500Y,Repeat Order
+142,interest shown in 2025X prototype by client,New Product Demand
+143,"runninglow on supplies again, please arrange dispatch",Stocking Issue
+144,needs reinforced handles on boxes for safety reason,Custom Spec
+145,Client wants another batch of 1000 units like last time.,Repeat Order
+146,"Delivery needed immediately, client facing outage.",Urgent Need
+147,Specification change: needs reinforced packaging.,Custom Spec
+148,Request for custom color matching on containers.,Custom Spec
+149,Trial order to test new technology batch.,New Product Demand
+150,needs reinforced handles on boxes for safety reason,Custom Spec
+151,Specification change: needs reinforced packaging.,Custom Spec
+152,First order placed for updated product variant.,New Product Demand
+153,Request to modify packaging dimensions before shipment,Custom Spec
+154,Criticalshortage reported need shipment by next week,Urgent Need
+155,critical shortage reported need shipment by next week,Urgent Need
+156,First order placed for updated product variant.,New Product Demand
+157,Request for non-standard dimension for container.,Custom Spec
+158,"Requesting rush shipping, shortage reported. ASAP",Urgent Need
+159,Requestfor non-standard dimension for container.,Custom Spec
+160,First order placed for updated product variant.,New Product Demand
+161,Placing a repeat request for item series 100X.,Repeat Order
+162,"Warehouse backorder increasing, please resupply. ASAP",Stocking Issue
+163,First order placed for updated product variant.,New Product Demand
+164,demo units requested to evaluate updated models,New Product Demand
+165,interest shown in 2025X prototype by client,New Product Demand
+166,trial samples needed for our new eco friendly line,New Product Demand
+167,Need 300 more of the units ordered last month.,Repeat Order
+168,Specification change: needs reinforced packaging.,Custom Spec
+169,They are requesting a repeat of the previous order. ASAP,Repeat Order
+170,needsreinforced handles on boxes for safety reason,Custom Spec
+171,Customized dimension required for part 780Y.,Custom Spec
+172,client needs same order as last month for product 450X,Repeat Order
+173,First order placed for updated product variant.,New Product Demand
+174,Placing a repeat request for item series 100X.,Repeat Order
+175,Request for non-standard dimension for container. ASAP,Custom Spec
+176,Warehousealmost out of stock for model y23,Stocking Issue
+177,Need 300 more of the units ordered last month.,Repeat Order
+178,"Another batch required urgently, same spec as previous",Repeat Order
+179,Wants special coating on the exterior.,Custom Spec
+180,Exploring samples for a new product line.,New Product Demand
+181,Specification change: needs reinforced packaging.,Custom Spec
+182,Need emergency stock replenishment by Friday.,Urgent Need
+183,They are requesting a repeat of the previous order.,Repeat Order
+184,Client wants another batch of 1000 units like last time.,Repeat Order
+185,Customized dimension required for part 780Y.,Custom Spec
+186,Customized dimension required for part 780Y.,Custom Spec
+187,They are requesting a repeat of the previous order.,Repeat Order
+188,"Running low on supplies again, please arrange dispatch",Stocking Issue
+189,"Out of stock reported, needs restocking.",Stocking Issue
+190,Rush request for product A45 due to customer escalation,Urgent Need
+191,inventory outage pls expedite shipping if possible,Urgent Need
+192,First order placed for updated product variant.,New Product Demand
+193,Customized dimension required for part 780y.,Custom Spec
+194,Customizeddimension required for part 780Y.,Custom Spec
+195,trialsamples needed for our new eco friendly line,New Product Demand
+196,inventory outage pls expedite shipping if possible,Urgent Need
+197,Placing a repeat request for item series 100X.,Repeat Order
+198,"Outof stock reported, needs restocking.",Stocking Issue
+199,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+200,Need 300 more of the units ordered last month.,Repeat Order
+201,client needs same order as last month for product 450X,Repeat Order
+202,Request for non-standard dimension for container.,Custom Spec
+203,Exploringsamples for a new product line.,New Product Demand
+204,First order placed for updated product variant.,New Product Demand
+205,Placing a repeat request for item series 100X.,Repeat Order
+206,Need urgent delivery due to market launch next week.,Urgent Need
+207,inventory outage pls expedite shipping if possible,Urgent Need
+208,Trial order to test new technology batch.,New Product Demand
+209,Repeat purchase request for Model 500Y,Repeat Order
+210,custom size requested for container 560Z special handling needed,Custom Spec
+211,"running low on supplies again, please arrange dispatch",Stocking Issue
+212,They are requesting a repeat of the previous order.,Repeat Order
+213,"Anotherbatch required urgently, same spec as previous",Repeat Order
+214,needs reinforced handles on boxes for safety reason,Custom Spec
+215,Need 300 more of the units ordered last month.,Repeat Order
+216,Request to modify packaging dimensions before shipment,Custom Spec
+217,Client exploring samples of 2024 line.,New Product Demand
+218,inventory outage pls expedite shipping if possible,Urgent Need
+219,"Requesting rush shipping, shortage reported.",Urgent Need
+220,Exploring samples for a new product line.,New Product Demand
+221,criticalshortage reported need shipment by next week,Urgent Need
+222,Rush request for product A45 due to customer escalation,Urgent Need
+223,client needs same order as last month for product 450X,Repeat Order
+224,needs reinforced handles on boxes for safety reason,Custom Spec
+225,Trial order to test new technology batch.,New Product Demand
+226,"Out of stock reported, needs restocking.",Stocking Issue
+227,Need emergency stock replenishment by Friday.,Urgent Need
+228,Exploring samples for a new product line.,New Product Demand
+229,Client exploring samples of 2024 line.,New Product Demand
+230,"Deliveryneeded immediately, client facing outage.",Urgent Need
+231,Rushrequest for product A45 due to customer escalation,Urgent Need
+232,Trial order to test new technology batch.,New Product Demand
+233,They are requesting a repeat of the previous order.,Repeat Order
+234,warehouse almost out of stock for Model Y23,Stocking Issue
+235,critical shortage reported need shipment by next week,Urgent Need
+236,Placing a repeat request for item series 100X.,Repeat Order
+237,Asked for customized sizing of the packaging.,Custom Spec
+238,client needs same order as last month for product 450X,Repeat Order
+239,Placing a repeat request for item series 100X.,Repeat Order
+240,"Inventory running low, client requests immediate resupply.",Stocking Issue
+241,"Out of stock reported, needs restocking.",Stocking Issue
+242,Wantsspecial coating on the exterior.,Custom Spec
+243,Client exploring samples of 2024 line.,New Product Demand
+244,First order placed for updated product variant.,New Product Demand
+245,"Requesting rush shipping, shortage reported.",Urgent Need
+246,critical shortage reported need shipment by next week,Urgent Need
+247,client needs same order as last month for product 450X ASAP,Repeat Order
+248,"Requesting rush shipping, shortage reported.",Urgent Need
+249,Stockout reported for Model X1.,Stocking Issue
+250,demo units requested to evaluate updated models,New Product Demand
+251,Firstorder placed for updated product variant.,New Product Demand
+252,First order placed for updated product variant.,New Product Demand
+253,Requestto modify packaging dimensions before shipment,Custom Spec
+254,Request for custom color matching on containers.,Custom Spec
+255,First order placed for updated product variant.,New Product Demand
+256,Need300 more of the units ordered last month.,Repeat Order
+257,Stockout reported for Model X1.,Stocking Issue
+258,Exploring samples for a new product line.,New Product Demand
+259,"Out of stock reported, needs restocking.",Stocking Issue
+260,They are requesting a repeat of the previous order.,Repeat Order
+261,backorders increasing need quick replenishment,Stocking Issue
+262,Need 300 more of the units ordered last month.,Repeat Order
+263,Trial order to test new technology batch.,New Product Demand
+264,Repeatpurchase request for Model 500Y,Repeat Order
+265,"Out of stock reported, needs restocking.",Stocking Issue
+266,Needurgent delivery due to market launch next week.,Urgent Need
+267,inventory outage pls expedite shipping if possible,Urgent Need
+268,Need urgent delivery due to market launch next week.,Urgent Need
+269,custom size requested for container 560Z special handling needed,Custom Spec
+270,"Warehouse backorder increasing, please resupply.",Stocking Issue
+271,Need emergency stock replenishment by Friday.,Urgent Need
+272,custom size requested for container 560Z special handling needed,Custom Spec
+273,Asked for customized sizing of the packaging.,Custom Spec
+274,Rush request for product a45 due to customer escalation,Urgent Need
+275,Customized dimension required for part 780Y.,Custom Spec
+276,"Requestingrush shipping, shortage reported.",Urgent Need
+277,"Out of stock reported, needs restocking.",Stocking Issue
+278,Client exploring samples of 2024 line. ASAP,New Product Demand
+279,"Requesting rush shipping, shortage reported.",Urgent Need
+280,Request for non-standard dimension for container.,Custom Spec
+281,interest shown in 2025X prototype by client,New Product Demand
+282,backorders increasing need quick replenishment,Stocking Issue
+283,Exploring samples for a new product line.,New Product Demand
+284,Request for non-standard dimension for container.,Custom Spec
+285,"Delivery needed immediately, client facing outage.",Urgent Need
+286,Stockout reported for Model X1.,Stocking Issue
+287,needs reinforced handles on boxes for safety reason,Custom Spec
+288,Specification change: needs reinforced packaging.,Custom Spec
+289,"Delivery needed immediately, client facing outage.",Urgent Need
+290,Placing a repeat request for item series 100X.,Repeat Order
+291,Request to modify packaging dimensions before shipment,Custom Spec
+292,critical shortage reported need shipment by next week,Urgent Need
+293,customsize requested for container 560Z special handling needed,Custom Spec
+294,Needemergency stock replenishment by friday.,Urgent Need
+295,Client wants another batch of 1000 units like last time.,Repeat Order
+296,Request to modify packaging dimensions before shipment,Custom Spec
+297,Needemergency stock replenishment by friday.,Urgent Need
+298,interest shown in 2025X prototype by client,New Product Demand
+299,needs reinforced handles on boxes for safety reason,Custom Spec
+300,"Requesting rush shipping, shortage reported. ASAP",Urgent Need
+301,Client wants another batch of 1000 units like last time.,Repeat Order
+302,interest shown in 2025X prototype by client,New Product Demand
+303,Specification change: needs reinforced packaging.,Custom Spec
+304,"running low on supplies again, please arrange dispatch",Stocking Issue
+305,"Another batch required urgently, same spec as previous",Repeat Order
+306,Specification change: needs reinforced packaging.,Custom Spec
+307,Need 300 more of the units ordered last month.,Repeat Order
+308,needsreinforced handles on boxes for safety reason,Custom Spec
+309,"running low on supplies again, please arrange dispatch",Stocking Issue
+310,critical shortage reported need shipment by next week ASAP,Urgent Need
+311,"Delivery needed immediately, client facing outage.",Urgent Need
+312,interest shown in 2025X prototype by client,New Product Demand
+313,Specification change: needs reinforced packaging.,Custom Spec
+314,They are requesting a repeat of the previous order.,Repeat Order
+315,Request for non-standard dimension for container.,Custom Spec
+316,"Warehouse backorder increasing, please resupply.",Stocking Issue
+317,"running low on supplies again, please arrange dispatch",Stocking Issue
+318,client needs same order as last month for product 450X,Repeat Order
+319,Client needs same order as last month for product 450x ASAP,Repeat Order
+320,demo units requested to evaluate updated models,New Product Demand
+321,"Another batch required urgently, same spec as previous",Repeat Order
+322,Request for custom color matching on containers.,Custom Spec
+323,Need urgent delivery due to market launch next week.,Urgent Need
+324,Rush request for product A45 due to customer escalation,Urgent Need
+325,Repeatpurchase request for Model 500Y,Repeat Order
+326,Need emergency stock replenishment by Friday.,Urgent Need
+327,Needurgent delivery due to market launch next week.,Urgent Need
+328,inventory outage pls expedite shipping if possible,Urgent Need
+329,Need 300 more of the units ordered last month.,Repeat Order
+330,Client needs same order as last month for product 450x ASAP,Repeat Order
+331,Need 300 more of the units ordered last month. ASAP,Repeat Order
+332,critical shortage reported need shipment by next week,Urgent Need
+333,Wants special coating on the exterior.,Custom Spec
+334,Trial order to test new technology batch.,New Product Demand
+335,Need 300 more of the units ordered last month. ASAP,Repeat Order
+336,Trial order to test new technology batch.,New Product Demand
+337,interest shown in 2025X prototype by client,New Product Demand
+338,"Another batch required urgently, same spec as previous",Repeat Order
+339,warehouse almost out of stock for Model Y23,Stocking Issue
+340,First order placed for updated product variant.,New Product Demand
+341,Asked for customized sizing of the packaging.,Custom Spec
+342,inventory outage pls expedite shipping if possible,Urgent Need
+343,inventory outage pls expedite shipping if possible,Urgent Need
+344,custom size requested for container 560Z special handling needed,Custom Spec
+345,Customized dimension required for part 780Y.,Custom Spec
+346,"Delivery needed immediately, client facing outage.",Urgent Need
+347,Need urgent delivery due to market launch next week.,Urgent Need
+348,inventoryoutage pls expedite shipping if possible,Urgent Need
+349,warehouse almost out of stock for Model Y23,Stocking Issue
+350,Trial order to test new technology batch.,New Product Demand
+351,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+352,needsreinforced handles on boxes for safety reason,Custom Spec
+353,Rush request for product A45 due to customer escalation,Urgent Need
+354,warehousealmost out of stock for Model Y23,Stocking Issue
+355,Rushrequest for product A45 due to customer escalation,Urgent Need
+356,Asked for customized sizing of the packaging.,Custom Spec
+357,They are requesting a repeat of the previous order.,Repeat Order
+358,Client wants another batch of 1000 units like last time.,Repeat Order
+359,custom size requested for container 560Z special handling needed,Custom Spec
+360,Placing a repeat request for item series 100X.,Repeat Order
+361,"running low on supplies again, please arrange dispatch",Stocking Issue
+362,backorders increasing need quick replenishment,Stocking Issue
+363,Stockoutreported for Model X1.,Stocking Issue
+364,Wantsspecial coating on the exterior.,Custom Spec
+365,Trial samples needed for our new eco friendly line,New Product Demand
+366,Client wants another batch of 1000 units like last time.,Repeat Order
+367,Need urgent delivery due to market launch next week.,Urgent Need
+368,warehouse almost out of stock for Model Y23,Stocking Issue
+369,backorders increasing need quick replenishment,Stocking Issue
+370,Customized dimension required for part 780Y.,Custom Spec
+371,warehouse almost out of stock for Model Y23,Stocking Issue
+372,needs reinforced handles on boxes for safety reason,Custom Spec
+373,"Out of stock reported, needs restocking.",Stocking Issue
+374,Client exploring samples of 2024 line.,New Product Demand
+375,Stockout reported for Model X1.,Stocking Issue
+376,Need emergency stock replenishment by Friday.,Urgent Need
+377,Customized dimension required for part 780Y.,Custom Spec
+378,Need urgent delivery due to market launch next week.,Urgent Need
+379,Placing a repeat request for item series 100X.,Repeat Order
+380,Wants special coating on the exterior.,Custom Spec
+381,"Inventory running low, client requests immediate resupply.",Stocking Issue
+382,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+383,warehouse almost out of stock for Model Y23,Stocking Issue
+384,"Another batch required urgently, same spec as previous",Repeat Order
+385,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+386,Request for custom color matching on containers.,Custom Spec
+387,Customized dimension required for part 780y.,Custom Spec
+388,They are requesting a repeat of the previous order.,Repeat Order
+389,"Out of stock reported, needs restocking.",Stocking Issue
+390,Theyare requesting a repeat of the previous order.,Repeat Order
+391,Rush request for product A45 due to customer escalation,Urgent Need
+392,"Warehouse backorder increasing, please resupply.",Stocking Issue
+393,First order placed for updated product variant. ASAP,New Product Demand
+394,Repeat purchase request for Model 500Y,Repeat Order
+395,Trial order to test new technology batch.,New Product Demand
+396,Rush request for product A45 due to customer escalation,Urgent Need
+397,"Out of stock reported, needs restocking.",Stocking Issue
+398,Need urgent delivery due to market launch next week.,Urgent Need
+399,"Out of stock reported, needs restocking.",Stocking Issue
+400,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+401,First order placed for updated product variant.,New Product Demand
+402,Wants special coating on the exterior.,Custom Spec
+403,Trial order to test new technology batch.,New Product Demand
+404,Request for custom color matching on containers.,Custom Spec
+405,client needs same order as last month for product 450X,Repeat Order
+406,demo units requested to evaluate updated models ASAP,New Product Demand
+407,Needurgent delivery due to market launch next week.,Urgent Need
+408,Placing a repeat request for item series 100X.,Repeat Order
+409,"Inventory running low, client requests immediate resupply.",Stocking Issue
+410,Placing a repeat request for item series 100X.,Repeat Order
+411,Stockout reported for model x1.,Stocking Issue
+412,Firstorder placed for updated product variant.,New Product Demand
+413,"running low on supplies again, please arrange dispatch",Stocking Issue
+414,Clientexploring samples of 2024 line.,New Product Demand
+415,trial samples needed for our new eco friendly line,New Product Demand
+416,inventory outage pls expedite shipping if possible,Urgent Need
+417,client needs same order as last month for product 450X,Repeat Order
+418,"Warehouse backorder increasing, please resupply.",Stocking Issue
+419,Rush request for product A45 due to customer escalation,Urgent Need
+420,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+421,Rush request for product A45 due to customer escalation,Urgent Need
+422,"Inventory running low, client requests immediate resupply.",Stocking Issue
+423,Exploring samples for a new product line.,New Product Demand
+424,Specification change: needs reinforced packaging.,Custom Spec
+425,inventory outage pls expedite shipping if possible,Urgent Need
+426,Client wants another batch of 1000 units like last time.,Repeat Order
+427,Placinga repeat request for item series 100X.,Repeat Order
+428,Trial order to test new technology batch. ASAP,New Product Demand
+429,needs reinforced handles on boxes for safety reason,Custom Spec
+430,"Out of stock reported, needs restocking.",Stocking Issue
+431,Client wants another batch of 1000 units like last time.,Repeat Order
+432,They are requesting a repeat of the previous order.,Repeat Order
+433,Need urgent delivery due to market launch next week.,Urgent Need
+434,trial samples needed for our new eco friendly line,New Product Demand
+435,"Another batch required urgently, same spec as previous ASAP",Repeat Order
+436,needsreinforced handles on boxes for safety reason,Custom Spec
+437,"Another batch required urgently, same spec as previous",Repeat Order
+438,demo units requested to evaluate updated models,New Product Demand
+439,needsreinforced handles on boxes for safety reason,Custom Spec
+440,"Requesting rush shipping, shortage reported.",Urgent Need
+441,"Warehouse backorder increasing, please resupply.",Stocking Issue
+442,client needs same order as last month for product 450X,Repeat Order
+443,"Inventory running low, client requests immediate resupply.",Stocking Issue
+444,Need300 more of the units ordered last month.,Repeat Order
+445,Client wants another batch of 1000 units like last time.,Repeat Order
+446,Need emergency stock replenishment by Friday.,Urgent Need
+447,client needs same order as last month for product 450X,Repeat Order
+448,Repeat purchase request for model 500y,Repeat Order
+449,Stockout reported for Model X1.,Stocking Issue
+450,Inventoryoutage pls expedite shipping if possible,Urgent Need
+451,Client exploring samples of 2024 line.,New Product Demand
+452,Specification change: needs reinforced packaging.,Custom Spec
+453,"Requestingrush shipping, shortage reported.",Urgent Need
+454,"Requesting rush shipping, shortage reported.",Urgent Need
+455,Client wants another batch of 1000 units like last time.,Repeat Order
+456,backorders increasing need quick replenishment,Stocking Issue
+457,"running low on supplies again, please arrange dispatch",Stocking Issue
+458,Exploringsamples for a new product line.,New Product Demand
+459,Wants special coating on the exterior.,Custom Spec
+460,customsize requested for container 560Z special handling needed,Custom Spec
+461,client needs same order as last month for product 450X,Repeat Order
+462,client needs same order as last month for product 450X,Repeat Order
+463,Requestto modify packaging dimensions before shipment,Custom Spec
+464,Exploring samples for a new product line. ASAP,New Product Demand
+465,criticalshortage reported need shipment by next week,Urgent Need
+466,demounits requested to evaluate updated models,New Product Demand
+467,Request for non-standard dimension for container.,Custom Spec
+468,Client wants another batch of 1000 units like last time.,Repeat Order
+469,"running low on supplies again, please arrange dispatch",Stocking Issue
+470,client needs same order as last month for product 450X,Repeat Order
+471,critical shortage reported need shipment by next week,Urgent Need
+472,warehouse almost out of stock for Model Y23,Stocking Issue
+473,"Out of stock reported, needs restocking.",Stocking Issue
+474,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+475,warehouse almost out of stock for Model Y23,Stocking Issue
+476,"Another batch required urgently, same spec as previous",Repeat Order
+477,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+478,client needs same order as last month for product 450X,Repeat Order
+479,Trial order to test new technology batch. ASAP,New Product Demand
+480,Stockout reported for Model X1.,Stocking Issue
+481,warehouse almost out of stock for Model Y23,Stocking Issue
+482,Client exploring samples of 2024 line.,New Product Demand
+483,Request to modify packaging dimensions before shipment,Custom Spec
+484,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+485,"running low on supplies again, please arrange dispatch",Stocking Issue
+486,inventory outage pls expedite shipping if possible,Urgent Need
+487,Repeatpurchase request for Model 500Y,Repeat Order
+488,Request to modify packaging dimensions before shipment,Custom Spec
+489,Repeatpurchase request for model 500y,Repeat Order
+490,Repeat purchase request for Model 500Y,Repeat Order
+491,"Delivery needed immediately, client facing outage.",Urgent Need
+492,Client wants another batch of 1000 units like last time.,Repeat Order
+493,"running low on supplies again, please arrange dispatch",Stocking Issue
+494,"Warehouse backorder increasing, please resupply.",Stocking Issue
+495,"Out of stock reported, needs restocking.",Stocking Issue
+496,demo units requested to evaluate updated models,New Product Demand
+497,interest shown in 2025X prototype by client ASAP,New Product Demand
+498,"Delivery needed immediately, client facing outage.",Urgent Need
+499,Exploring samples for a new product line.,New Product Demand
+500,"Requesting rush shipping, shortage reported.",Urgent Need
+501,First order placed for updated product variant.,New Product Demand
+502,trial samples needed for our new eco friendly line,New Product Demand
+503,Client wants another batch of 1000 units like last time.,Repeat Order
+504,"Another batch required urgently, same spec as previous",Repeat Order
+505,Need 300 more of the units ordered last month.,Repeat Order
+506,Customized dimension required for part 780Y.,Custom Spec
+507,First order placed for updated product variant.,New Product Demand
+508,criticalshortage reported need shipment by next week,Urgent Need
+509,interest shown in 2025X prototype by client,New Product Demand
+510,Request to modify packaging dimensions before shipment,Custom Spec
+511,Client wants another batch of 1000 units like last time.,Repeat Order
+512,Placing a repeat request for item series 100X.,Repeat Order
+513,Rush request for product A45 due to customer escalation,Urgent Need
+514,"Delivery needed immediately, client facing outage. ASAP",Urgent Need
+515,"running low on supplies again, please arrange dispatch",Stocking Issue
+516,"Another batch required urgently, same spec as previous",Repeat Order
+517,Requestfor custom color matching on containers.,Custom Spec
+518,Client wants another batch of 1000 units like last time.,Repeat Order
+519,Client wants another batch of 1000 units like last time.,Repeat Order
+520,Request to modify packaging dimensions before shipment,Custom Spec
+521,Need urgent delivery due to market launch next week.,Urgent Need
+522,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+523,"Outof stock reported, needs restocking.",Stocking Issue
+524,Rush request for product A45 due to customer escalation,Urgent Need
+525,needs reinforced handles on boxes for safety reason,Custom Spec
+526,Need emergency stock replenishment by Friday.,Urgent Need
+527,custom size requested for container 560Z special handling needed,Custom Spec
+528,Rushrequest for product A45 due to customer escalation,Urgent Need
+529,"Delivery needed immediately, client facing outage.",Urgent Need
+530,demo units requested to evaluate updated models ASAP,New Product Demand
+531,Trial order to test new technology batch.,New Product Demand
+532,They are requesting a repeat of the previous order.,Repeat Order
+533,Repeat purchase request for Model 500Y,Repeat Order
+534,"running low on supplies again, please arrange dispatch",Stocking Issue
+535,"Another batch required urgently, same spec as previous",Repeat Order
+536,Specification change: needs reinforced packaging.,Custom Spec
+537,"Warehouse backorder increasing, please resupply. ASAP",Stocking Issue
+538,Need urgent delivery due to market launch next week.,Urgent Need
+539,interestshown in 2025X prototype by client,New Product Demand
+540,Specification change: needs reinforced packaging.,Custom Spec
+541,Theyare requesting a repeat of the previous order.,Repeat Order
+542,Custom size requested for container 560z special handling needed ASAP,Custom Spec
+543,"Inventory running low, client requests immediate resupply.",Stocking Issue
+544,critical shortage reported need shipment by next week,Urgent Need
+545,"Another batch required urgently, same spec as previous",Repeat Order
+546,Need emergency stock replenishment by Friday. ASAP,Urgent Need
+547,Stockoutreported for Model X1. ASAP,Stocking Issue
+548,"running low on supplies again, please arrange dispatch",Stocking Issue
+549,trial samples needed for our new eco friendly line,New Product Demand
+550,critical shortage reported need shipment by next week,Urgent Need
+551,"Anotherbatch required urgently, same spec as previous",Repeat Order
+552,Exploring samples for a new product line.,New Product Demand
+553,"Warehouse backorder increasing, please resupply.",Stocking Issue
+554,warehouse almost out of stock for Model Y23,Stocking Issue
+555,Need emergency stock replenishment by Friday.,Urgent Need
+556,Asked for customized sizing of the packaging.,Custom Spec
+557,Need urgent delivery due to market launch next week.,Urgent Need
+558,Client wants another batch of 1000 units like last time.,Repeat Order
+559,Wants special coating on the exterior.,Custom Spec
+560,"running low on supplies again, please arrange dispatch",Stocking Issue
+561,"Warehouse backorder increasing, please resupply.",Stocking Issue
+562,"Another batch required urgently, same spec as previous",Repeat Order
+563,Request for custom color matching on containers.,Custom Spec
+564,critical shortage reported need shipment by next week,Urgent Need
+565,Stockout reported for Model X1.,Stocking Issue
+566,trial samples needed for our new eco friendly line,New Product Demand
+567,"Delivery needed immediately, client facing outage.",Urgent Need
+568,Exploring samples for a new product line.,New Product Demand
+569,Specification change: needs reinforced packaging.,Custom Spec
+570,Wants special coating on the exterior.,Custom Spec
+571,"Warehouse backorder increasing, please resupply. ASAP",Stocking Issue
+572,demo units requested to evaluate updated models,New Product Demand
+573,Client wants another batch of 1000 units like last time.,Repeat Order
+574,"Another batch required urgently, same spec as previous",Repeat Order
+575,Stockout reported for Model X1.,Stocking Issue
+576,"Out of stock reported, needs restocking.",Stocking Issue
+577,"Delivery needed immediately, client facing outage.",Urgent Need
+578,Custom size requested for container 560z special handling needed ASAP,Custom Spec
+579,Need emergency stock replenishment by friday.,Urgent Need
+580,Need urgent delivery due to market launch next week.,Urgent Need
+581,Need emergency stock replenishment by Friday.,Urgent Need
+582,Need emergency stock replenishment by Friday.,Urgent Need
+583,Specification change: needs reinforced packaging.,Custom Spec
+584,"Another batch required urgently, same spec as previous",Repeat Order
+585,First order placed for updated product variant.,New Product Demand
+586,needs reinforced handles on boxes for safety reason,Custom Spec
+587,Placing a repeat request for item series 100X.,Repeat Order
+588,interest shown in 2025X prototype by client,New Product Demand
+589,They are requesting a repeat of the previous order.,Repeat Order
+590,Customized dimension required for part 780Y.,Custom Spec
+591,Askedfor customized sizing of the packaging.,Custom Spec
+592,"Warehouse backorder increasing, please resupply.",Stocking Issue
+593,Asked for customized sizing of the packaging.,Custom Spec
+594,client needs same order as last month for product 450X,Repeat Order
+595,"Requesting rush shipping, shortage reported.",Urgent Need
+596,interestshown in 2025X prototype by client,New Product Demand
+597,"Delivery needed immediately, client facing outage.",Urgent Need
+598,interest shown in 2025X prototype by client,New Product Demand
+599,First order placed for updated product variant.,New Product Demand
+600,Rush request for product A45 due to customer escalation ASAP,Urgent Need
+601,Request to modify packaging dimensions before shipment,Custom Spec
+602,interest shown in 2025X prototype by client,New Product Demand
+603,Custom size requested for container 560z special handling needed,Custom Spec
+604,demo units requested to evaluate updated models,New Product Demand
+605,trial samples needed for our new eco friendly line,New Product Demand
+606,"Delivery needed immediately, client facing outage.",Urgent Need
+607,warehouse almost out of stock for Model Y23,Stocking Issue
+608,"Delivery needed immediately, client facing outage.",Urgent Need
+609,needs reinforced handles on boxes for safety reason,Custom Spec
+610,Trial order to test new technology batch.,New Product Demand
+611,interest shown in 2025X prototype by client,New Product Demand
+612,Exploring samples for a new product line.,New Product Demand
+613,Need urgent delivery due to market launch next week.,Urgent Need
+614,They are requesting a repeat of the previous order.,Repeat Order
+615,Request to modify packaging dimensions before shipment,Custom Spec
+616,Stockout reported for Model X1.,Stocking Issue
+617,Need emergency stock replenishment by Friday.,Urgent Need
+618,trial samples needed for our new eco friendly line,New Product Demand
+619,They are requesting a repeat of the previous order. ASAP,Repeat Order
+620,criticalshortage reported need shipment by next week,Urgent Need
+621,Request for custom color matching on containers.,Custom Spec
+622,custom size requested for container 560Z special handling needed,Custom Spec
+623,Requestto modify packaging dimensions before shipment,Custom Spec
+624,warehousealmost out of stock for Model Y23,Stocking Issue
+625,First order placed for updated product variant.,New Product Demand
+626,"running low on supplies again, please arrange dispatch ASAP",Stocking Issue
+627,trialsamples needed for our new eco friendly line,New Product Demand
+628,Requestfor custom color matching on containers.,Custom Spec
+629,Repeat purchase request for Model 500Y,Repeat Order
+630,Placing a repeat request for item series 100X.,Repeat Order
+631,Repeat purchase request for Model 500Y,Repeat Order
+632,Need 300 more of the units ordered last month.,Repeat Order
+633,Firstorder placed for updated product variant.,New Product Demand
+634,Repeat purchase request for Model 500Y,Repeat Order
+635,backorders increasing need quick replenishment,Stocking Issue
+636,"Requesting rush shipping, shortage reported.",Urgent Need
+637,needs reinforced handles on boxes for safety reason,Custom Spec
+638,Rush request for product A45 due to customer escalation,Urgent Need
+639,Customized dimension required for part 780y.,Custom Spec
+640,Request to modify packaging dimensions before shipment,Custom Spec
+641,"Another batch required urgently, same spec as previous",Repeat Order
+642,Placing a repeat request for item series 100X.,Repeat Order
+643,inventory outage pls expedite shipping if possible,Urgent Need
+644,client needs same order as last month for product 450X,Repeat Order
+645,Exploring samples for a new product line.,New Product Demand
+646,They are requesting a repeat of the previous order.,Repeat Order
+647,Need urgent delivery due to market launch next week.,Urgent Need
+648,"Requesting rush shipping, shortage reported.",Urgent Need
+649,They are requesting a repeat of the previous order.,Repeat Order
+650,Client exploring samples of 2024 line.,New Product Demand
+651,"running low on supplies again, please arrange dispatch",Stocking Issue
+652,Interestshown in 2025x prototype by client,New Product Demand
+653,Need 300 more of the units ordered last month.,Repeat Order
+654,Rush request for product A45 due to customer escalation,Urgent Need
+655,"Warehousebackorder increasing, please resupply.",Stocking Issue
+656,Warehouse almost out of stock for model y23,Stocking Issue
+657,Need urgent delivery due to market launch next week.,Urgent Need
+658,Requestto modify packaging dimensions before shipment ASAP,Custom Spec
+659,Specificationchange: needs reinforced packaging.,Custom Spec
+660,"Warehouse backorder increasing, please resupply.",Stocking Issue
+661,Repeat purchase request for model 500y,Repeat Order
+662,Customized dimension required for part 780Y.,Custom Spec
+663,"Inventory running low, client requests immediate resupply.",Stocking Issue
+664,warehouse almost out of stock for Model Y23,Stocking Issue
+665,"Out of stock reported, needs restocking.",Stocking Issue
+666,Client exploring samples of 2024 line.,New Product Demand
+667,warehouse almost out of stock for Model Y23,Stocking Issue
+668,Need 300 more of the units ordered last month.,Repeat Order
+669,Client exploring samples of 2024 line.,New Product Demand
+670,Placing a repeat request for item series 100X. ASAP,Repeat Order
+671,Exploring samples for a new product line.,New Product Demand
+672,trial samples needed for our new eco friendly line,New Product Demand
+673,Demo units requested to evaluate updated models,New Product Demand
+674,Specification change: needs reinforced packaging.,Custom Spec
+675,"Another batch required urgently, same spec as previous ASAP",Repeat Order
+676,Request for non-standard dimension for container.,Custom Spec
+677,"Warehouse backorder increasing, please resupply.",Stocking Issue
+678,critical shortage reported need shipment by next week,Urgent Need
+679,Rush request for product A45 due to customer escalation,Urgent Need
+680,demo units requested to evaluate updated models,New Product Demand
+681,"Warehouse backorder increasing, please resupply.",Stocking Issue
+682,Placing a repeat request for item series 100X.,Repeat Order
+683,Request for custom color matching on containers.,Custom Spec
+684,Trial order to test new technology batch.,New Product Demand
+685,Placing a repeat request for item series 100x.,Repeat Order
+686,Exploring samples for a new product line.,New Product Demand
+687,Request for non-standard dimension for container.,Custom Spec
+688,First order placed for updated product variant.,New Product Demand
+689,Stockout reported for Model X1.,Stocking Issue
+690,"Inventory running low, client requests immediate resupply.",Stocking Issue
+691,Wants special coating on the exterior.,Custom Spec
+692,"Delivery needed immediately, client facing outage.",Urgent Need
+693,"Another batch required urgently, same spec as previous",Repeat Order
+694,"Requesting rush shipping, shortage reported. ASAP",Urgent Need
+695,"Requesting rush shipping, shortage reported.",Urgent Need
+696,Requestfor custom color matching on containers.,Custom Spec
+697,"Backorders causing delays, need resupply asap.",Stocking Issue
+698,Placinga repeat request for item series 100X.,Repeat Order
+699,They are requesting a repeat of the previous order.,Repeat Order
+700,trialsamples needed for our new eco friendly line,New Product Demand
+701,inventoryoutage pls expedite shipping if possible,Urgent Need
+702,"Another batch required urgently, same spec as previous",Repeat Order
+703,warehouse almost out of stock for Model Y23,Stocking Issue
+704,Trialorder to test new technology batch.,New Product Demand
+705,needs reinforced handles on boxes for safety reason,Custom Spec
+706,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+707,inventory outage pls expedite shipping if possible,Urgent Need
+708,Stockout reported for Model X1. ASAP,Stocking Issue
+709,Requestto modify packaging dimensions before shipment,Custom Spec
+710,Rush request for product A45 due to customer escalation,Urgent Need
+711,Request for custom color matching on containers.,Custom Spec
+712,Client wants another batch of 1000 units like last time. ASAP,Repeat Order
+713,Repeat purchase request for Model 500Y,Repeat Order
+714,"Out of stock reported, needs restocking.",Stocking Issue
+715,Need 300 more of the units ordered last month.,Repeat Order
+716,Specification change: needs reinforced packaging.,Custom Spec
+717,"Delivery needed immediately, client facing outage.",Urgent Need
+718,"Delivery needed immediately, client facing outage.",Urgent Need
+719,First order placed for updated product variant.,New Product Demand
+720,Need urgent delivery due to market launch next week.,Urgent Need
+721,Need 300 more of the units ordered last month.,Repeat Order
+722,Stockout reported for Model X1.,Stocking Issue
+723,Rush request for product A45 due to customer escalation,Urgent Need
+724,Customized dimension required for part 780Y.,Custom Spec
+725,"running low on supplies again, please arrange dispatch",Stocking Issue
+726,interest shown in 2025X prototype by client,New Product Demand
+727,Client exploring samples of 2024 line.,New Product Demand
+728,demo units requested to evaluate updated models,New Product Demand
+729,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+730,Client exploring samples of 2024 line.,New Product Demand
+731,"Another batch required urgently, same spec as previous",Repeat Order
+732,Wants special coating on the exterior.,Custom Spec
+733,Stockout reported for Model X1.,Stocking Issue
+734,needs reinforced handles on boxes for safety reason,Custom Spec
+735,"Requesting rush shipping, shortage reported.",Urgent Need
+736,"Delivery needed immediately, client facing outage.",Urgent Need
+737,Theyare requesting a repeat of the previous order.,Repeat Order
+738,"Delivery needed immediately, client facing outage.",Urgent Need
+739,Stockout reported for Model X1.,Stocking Issue
+740,"Requesting rush shipping, shortage reported.",Urgent Need
+741,Request to modify packaging dimensions before shipment,Custom Spec
+742,Specification change: needs reinforced packaging.,Custom Spec
+743,Request for custom color matching on containers. ASAP,Custom Spec
+744,"Inventory running low, client requests immediate resupply.",Stocking Issue
+745,Exploring samples for a new product line.,New Product Demand
+746,interest shown in 2025X prototype by client,New Product Demand
+747,Specification change: needs reinforced packaging.,Custom Spec
+748,Request for non-standard dimension for container.,Custom Spec
+749,inventory outage pls expedite shipping if possible ASAP,Urgent Need
+750,Request for custom color matching on containers.,Custom Spec
+751,Need emergency stock replenishment by Friday.,Urgent Need
+752,interest shown in 2025X prototype by client,New Product Demand
+753,"Inventory running low, client requests immediate resupply.",Stocking Issue
+754,Placing a repeat request for item series 100X.,Repeat Order
+755,"Another batch required urgently, same spec as previous",Repeat Order
+756,"running low on supplies again, please arrange dispatch",Stocking Issue
+757,Trial order to test new technology batch.,New Product Demand
+758,Rush request for product A45 due to customer escalation,Urgent Need
+759,"Another batch required urgently, same spec as previous",Repeat Order
+760,First order placed for updated product variant.,New Product Demand
+761,needs reinforced handles on boxes for safety reason,Custom Spec
+762,Stockout reported for Model X1.,Stocking Issue
+763,First order placed for updated product variant.,New Product Demand
+764,backorders increasing need quick replenishment,Stocking Issue
+765,Need 300 more of the units ordered last month.,Repeat Order
+766,demo units requested to evaluate updated models,New Product Demand
+767,Need 300 more of the units ordered last month.,Repeat Order
+768,inventory outage pls expedite shipping if possible,Urgent Need
+769,inventory outage pls expedite shipping if possible,Urgent Need
+770,Request for custom color matching on containers.,Custom Spec
+771,warehouse almost out of stock for Model Y23,Stocking Issue
+772,Exploring samples for a new product line.,New Product Demand
+773,They are requesting a repeat of the previous order.,Repeat Order
+774,Need emergency stock replenishment by Friday.,Urgent Need
+775,custom size requested for container 560Z special handling needed,Custom Spec
+776,"Inventory running low, client requests immediate resupply.",Stocking Issue
+777,needs reinforced handles on boxes for safety reason,Custom Spec
+778,Request for non-standard dimension for container.,Custom Spec
+779,Need emergency stock replenishment by Friday.,Urgent Need
+780,backorders increasing need quick replenishment,Stocking Issue
+781,Client wants another batch of 1000 units like last time.,Repeat Order
+782,Client wants another batch of 1000 units like last time.,Repeat Order
+783,Wants special coating on the exterior.,Custom Spec
+784,Need 300 more of the units ordered last month.,Repeat Order
+785,Client exploring samples of 2024 line.,New Product Demand
+786,client needs same order as last month for product 450X,Repeat Order
+787,Need 300 more of the units ordered last month.,Repeat Order
+788,Need 300 more of the units ordered last month.,Repeat Order
+789,Wants special coating on the exterior.,Custom Spec
+790,"Delivery needed immediately, client facing outage.",Urgent Need
+791,Need urgent delivery due to market launch next week.,Urgent Need
+792,"Delivery needed immediately, client facing outage.",Urgent Need
+793,Wants special coating on the exterior.,Custom Spec
+794,"Out of stock reported, needs restocking.",Stocking Issue
+795,Repeat purchase request for Model 500Y,Repeat Order
+796,interestshown in 2025X prototype by client ASAP,New Product Demand
+797,Client wants another batch of 1000 units like last time.,Repeat Order
+798,"Requesting rush shipping, shortage reported.",Urgent Need
+799,Need emergency stock replenishment by friday.,Urgent Need
+800,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+801,trial samples needed for our new eco friendly line,New Product Demand
+802,Need 300 more of the units ordered last month.,Repeat Order
+803,trialsamples needed for our new eco friendly line,New Product Demand
+804,Needemergency stock replenishment by Friday.,Urgent Need
+805,Request for non-standard dimension for container.,Custom Spec
+806,Rush request for product a45 due to customer escalation,Urgent Need
+807,"Backorderscausing delays, need resupply ASAP. ASAP",Stocking Issue
+808,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+809,Asked for customized sizing of the packaging.,Custom Spec
+810,Specification change: needs reinforced packaging. ASAP,Custom Spec
+811,Customized dimension required for part 780Y.,Custom Spec
+812,Need emergency stock replenishment by Friday.,Urgent Need
+813,Request to modify packaging dimensions before shipment,Custom Spec
+814,Request to modify packaging dimensions before shipment,Custom Spec
+815,interest shown in 2025X prototype by client,New Product Demand
+816,Stockout reported for Model X1.,Stocking Issue
+817,Wantsspecial coating on the exterior.,Custom Spec
+818,"Out of stock reported, needs restocking.",Stocking Issue
+819,"Inventory running low, client requests immediate resupply.",Stocking Issue
+820,Stockout reported for Model X1.,Stocking Issue
+821,needs reinforced handles on boxes for safety reason ASAP,Custom Spec
+822,Placing a repeat request for item series 100X.,Repeat Order
+823,Interest shown in 2025x prototype by client,New Product Demand
+824,Stockout reported for Model X1.,Stocking Issue
+825,needs reinforced handles on boxes for safety reason,Custom Spec
+826,warehouse almost out of stock for Model Y23,Stocking Issue
+827,inventory outage pls expedite shipping if possible,Urgent Need
+828,Trial order to test new technology batch.,New Product Demand
+829,Request for custom color matching on containers.,Custom Spec
+830,interest shown in 2025X prototype by client,New Product Demand
+831,Placing a repeat request for item series 100X.,Repeat Order
+832,needs reinforced handles on boxes for safety reason,Custom Spec
+833,"Another batch required urgently, same spec as previous",Repeat Order
+834,Request to modify packaging dimensions before shipment,Custom Spec
+835,needsreinforced handles on boxes for safety reason,Custom Spec
+836,"running low on supplies again, please arrange dispatch",Stocking Issue
+837,client needs same order as last month for product 450X,Repeat Order
+838,Placing a repeat request for item series 100X.,Repeat Order
+839,Specification change: needs reinforced packaging.,Custom Spec
+840,backorders increasing need quick replenishment,Stocking Issue
+841,"Out of stock reported, needs restocking.",Stocking Issue
+842,Rush request for product A45 due to customer escalation,Urgent Need
+843,"Delivery needed immediately, client facing outage.",Urgent Need
+844,Repeat purchase request for model 500y,Repeat Order
+845,"Warehouse backorder increasing, please resupply.",Stocking Issue
+846,Client wants another batch of 1000 units like last time.,Repeat Order
+847,Demounits requested to evaluate updated models,New Product Demand
+848,Client exploring samples of 2024 line.,New Product Demand
+849,Client exploring samples of 2024 line.,New Product Demand
+850,Rush request for product A45 due to customer escalation,Urgent Need
+851,"Out of stock reported, needs restocking.",Stocking Issue
+852,warehouse almost out of stock for Model Y23,Stocking Issue
+853,demounits requested to evaluate updated models,New Product Demand
+854,"Requesting rush shipping, shortage reported.",Urgent Need
+855,Needurgent delivery due to market launch next week.,Urgent Need
+856,customsize requested for container 560Z special handling needed ASAP,Custom Spec
+857,"running low on supplies again, please arrange dispatch",Stocking Issue
+858,"Another batch required urgently, same spec as previous",Repeat Order
+859,Customized dimension required for part 780Y.,Custom Spec
+860,Need300 more of the units ordered last month.,Repeat Order
+861,Wants special coating on the exterior.,Custom Spec
+862,Need urgent delivery due to market launch next week.,Urgent Need
+863,They are requesting a repeat of the previous order.,Repeat Order
+864,"Delivery needed immediately, client facing outage.",Urgent Need
+865,First order placed for updated product variant.,New Product Demand
+866,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+867,"Warehouse backorder increasing, please resupply.",Stocking Issue
+868,Stockout reported for Model X1.,Stocking Issue
+869,Exploring samples for a new product line.,New Product Demand
+870,Specification change: needs reinforced packaging.,Custom Spec
+871,Inventory outage pls expedite shipping if possible,Urgent Need
+872,"Inventory running low, client requests immediate resupply.",Stocking Issue
+873,"Backorders causing delays, need resupply ASAP. ASAP",Stocking Issue
+874,Customizeddimension required for part 780Y.,Custom Spec
+875,backorders increasing need quick replenishment,Stocking Issue
+876,Trial order to test new technology batch.,New Product Demand
+877,Need300 more of the units ordered last month.,Repeat Order
+878,They are requesting a repeat of the previous order.,Repeat Order
+879,interest shown in 2025X prototype by client,New Product Demand
+880,"Requesting rush shipping, shortage reported.",Urgent Need
+881,Placing a repeat request for item series 100X.,Repeat Order
+882,Exploring samples for a new product line.,New Product Demand
+883,custom size requested for container 560Z special handling needed ASAP,Custom Spec
+884,Requestfor non-standard dimension for container.,Custom Spec
+885,Stockout reported for Model X1.,Stocking Issue
+886,"Another batch required urgently, same spec as previous",Repeat Order
+887,Trial order to test new technology batch.,New Product Demand
+888,trialsamples needed for our new eco friendly line,New Product Demand
+889,Inventory outage pls expedite shipping if possible,Urgent Need
+890,needs reinforced handles on boxes for safety reason,Custom Spec
+891,inventory outage pls expedite shipping if possible,Urgent Need
+892,"Out of stock reported, needs restocking.",Stocking Issue
+893,"Inventory running low, client requests immediate resupply.",Stocking Issue
+894,"Delivery needed immediately, client facing outage.",Urgent Need
+895,inventory outage pls expedite shipping if possible,Urgent Need
+896,needs reinforced handles on boxes for safety reason,Custom Spec
+897,Request to modify packaging dimensions before shipment,Custom Spec
+898,Rush request for product A45 due to customer escalation ASAP,Urgent Need
+899,"Inventory running low, client requests immediate resupply.",Stocking Issue
+900,needsreinforced handles on boxes for safety reason,Custom Spec
+901,custom size requested for container 560Z special handling needed,Custom Spec
+902,"Delivery needed immediately, client facing outage.",Urgent Need
+903,Need emergency stock replenishment by Friday.,Urgent Need
+904,"Inventory running low, client requests immediate resupply.",Stocking Issue
+905,inventory outage pls expedite shipping if possible,Urgent Need
+906,Specification change: needs reinforced packaging.,Custom Spec
+907,customsize requested for container 560Z special handling needed,Custom Spec
+908,"running low on supplies again, please arrange dispatch",Stocking Issue
+909,Wantsspecial coating on the exterior.,Custom Spec
+910,"Inventory running low, client requests immediate resupply.",Stocking Issue
+911,Need emergency stock replenishment by friday.,Urgent Need
+912,custom size requested for container 560Z special handling needed,Custom Spec
+913,"running low on supplies again, please arrange dispatch",Stocking Issue
+914,Specification change: needs reinforced packaging.,Custom Spec
+915,"running low on supplies again, please arrange dispatch",Stocking Issue
+916,Repeat purchase request for Model 500Y,Repeat Order
+917,critical shortage reported need shipment by next week,Urgent Need
+918,Requestfor custom color matching on containers.,Custom Spec
+919,demo units requested to evaluate updated models,New Product Demand
+920,client needs same order as last month for product 450X,Repeat Order
+921,Need emergency stock replenishment by friday.,Urgent Need
+922,Stockout reported for Model X1. ASAP,Stocking Issue
+923,Customized dimension required for part 780y.,Custom Spec
+924,Wants special coating on the exterior.,Custom Spec
+925,"Another batch required urgently, same spec as previous",Repeat Order
+926,Rush request for product A45 due to customer escalation,Urgent Need
+927,Request for non-standard dimension for container.,Custom Spec
+928,trialsamples needed for our new eco friendly line,New Product Demand
+929,Placing a repeat request for item series 100X.,Repeat Order
+930,Specification change: needs reinforced packaging.,Custom Spec
+931,Rush request for product A45 due to customer escalation,Urgent Need
+932,"Delivery needed immediately, client facing outage.",Urgent Need
+933,interest shown in 2025X prototype by client,New Product Demand
+934,inventoryoutage pls expedite shipping if possible ASAP,Urgent Need
+935,They are requesting a repeat of the previous order.,Repeat Order
+936,interest shown in 2025X prototype by client,New Product Demand
+937,"Warehouse backorder increasing, please resupply.",Stocking Issue
+938,trialsamples needed for our new eco friendly line,New Product Demand
+939,client needs same order as last month for product 450X,Repeat Order
+940,backorders increasing need quick replenishment,Stocking Issue
+941,Repeat purchase request for Model 500Y,Repeat Order
+942,trial samples needed for our new eco friendly line,New Product Demand
+943,Request to modify packaging dimensions before shipment,Custom Spec
+944,backorders increasing need quick replenishment,Stocking Issue
+945,Repeat purchase request for Model 500Y ASAP,Repeat Order
+946,Repeat purchase request for Model 500Y,Repeat Order
+947,warehouse almost out of stock for Model Y23,Stocking Issue
+948,"Outof stock reported, needs restocking. ASAP",Stocking Issue
+949,critical shortage reported need shipment by next week,Urgent Need
+950,warehouse almost out of stock for Model Y23,Stocking Issue
+951,Need 300 more of the units ordered last month.,Repeat Order
+952,Placing a repeat request for item series 100X.,Repeat Order
+953,Need emergency stock replenishment by Friday.,Urgent Need
+954,Repeat purchase request for Model 500Y,Repeat Order
+955,Client wants another batch of 1000 units like last time.,Repeat Order
+956,"Out of stock reported, needs restocking.",Stocking Issue
+957,Specification change: needs reinforced packaging.,Custom Spec
+958,Request for non-standard dimension for container.,Custom Spec
+959,"Inventory running low, client requests immediate resupply. ASAP",Stocking Issue
+960,Placinga repeat request for item series 100X.,Repeat Order
+961,Request for non-standard dimension for container.,Custom Spec
+962,criticalshortage reported need shipment by next week,Urgent Need
+963,inventory outage pls expedite shipping if possible ASAP,Urgent Need
+964,Repeat purchase request for Model 500Y,Repeat Order
+965,Need urgent delivery due to market launch next week.,Urgent Need
+966,Repeat purchase request for Model 500Y,Repeat Order
+967,Need urgent delivery due to market launch next week.,Urgent Need
+968,"Requestingrush shipping, shortage reported.",Urgent Need
+969,Specification change: needs reinforced packaging.,Custom Spec
+970,Asked for customized sizing of the packaging.,Custom Spec
+971,interest shown in 2025X prototype by client,New Product Demand
+972,Rush request for product A45 due to customer escalation,Urgent Need
+973,Customized dimension required for part 780Y.,Custom Spec
+974,Need 300 more of the units ordered last month.,Repeat Order
+975,Client wants another batch of 1000 units like last time.,Repeat Order
+976,Need urgent delivery due to market launch next week.,Urgent Need
+977,"Requestingrush shipping, shortage reported.",Urgent Need
+978,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+979,"Deliveryneeded immediately, client facing outage.",Urgent Need
+980,critical shortage reported need shipment by next week,Urgent Need
+981,trial samples needed for our new eco friendly line,New Product Demand
+982,Repeat purchase request for Model 500Y,Repeat Order
+983,trial samples needed for our new eco friendly line,New Product Demand
+984,Client exploring samples of 2024 line.,New Product Demand
+985,Exploringsamples for a new product line.,New Product Demand
+986,Need emergency stock replenishment by Friday.,Urgent Need
+987,Firstorder placed for updated product variant.,New Product Demand
+988,Rush request for product A45 due to customer escalation,Urgent Need
+989,Exploringsamples for a new product line.,New Product Demand
+990,Client wants another batch of 1000 units like last time.,Repeat Order
+991,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+992,customsize requested for container 560Z special handling needed,Custom Spec
+993,Rush request for product A45 due to customer escalation,Urgent Need
+994,Specification change: needs reinforced packaging.,Custom Spec
+995,"Another batch required urgently, same spec as previous",Repeat Order
+996,Placing a repeat request for item series 100X.,Repeat Order
+997,custom size requested for container 560Z special handling needed,Custom Spec
+998,Rush request for product A45 due to customer escalation,Urgent Need
+999,Specification change: needs reinforced packaging.,Custom Spec
+1000,Rush request for product a45 due to customer escalation,Urgent Need
+1001,"Delivery needed immediately, client facing outage.",Urgent Need
+1002,Placing a repeat request for item series 100x. ASAP,Repeat Order
+1003,Needemergency stock replenishment by friday.,Urgent Need
+1004,Trial order to test new technology batch.,New Product Demand
+1005,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1006,Client wants another batch of 1000 units like last time.,Repeat Order
+1007,First order placed for updated product variant.,New Product Demand
+1008,"Another batch required urgently, same spec as previous",Repeat Order
+1009,Customizeddimension required for part 780Y.,Custom Spec
+1010,Client wants another batch of 1000 units like last time.,Repeat Order
+1011,Need emergency stock replenishment by Friday.,Urgent Need
+1012,critical shortage reported need shipment by next week,Urgent Need
+1013,Clientwants another batch of 1000 units like last time.,Repeat Order
+1014,trial samples needed for our new eco friendly line,New Product Demand
+1015,interest shown in 2025X prototype by client,New Product Demand
+1016,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1017,Repeat purchase request for Model 500Y,Repeat Order
+1018,custom size requested for container 560Z special handling needed,Custom Spec
+1019,critical shortage reported need shipment by next week,Urgent Need
+1020,custom size requested for container 560Z special handling needed,Custom Spec
+1021,backorders increasing need quick replenishment,Stocking Issue
+1022,They are requesting a repeat of the previous order.,Repeat Order
+1023,Need urgent delivery due to market launch next week.,Urgent Need
+1024,demo units requested to evaluate updated models,New Product Demand
+1025,Exploring samples for a new product line.,New Product Demand
+1026,Placing a repeat request for item series 100X.,Repeat Order
+1027,critical shortage reported need shipment by next week,Urgent Need
+1028,Exploring samples for a new product line.,New Product Demand
+1029,"Backorderscausing delays, need resupply ASAP.",Stocking Issue
+1030,Need 300 more of the units ordered last month.,Repeat Order
+1031,"Another batch required urgently, same spec as previous",Repeat Order
+1032,Repeat purchase request for model 500y,Repeat Order
+1033,They are requesting a repeat of the previous order.,Repeat Order
+1034,They are requesting a repeat of the previous order.,Repeat Order
+1035,"Delivery needed immediately, client facing outage.",Urgent Need
+1036,Request for non-standard dimension for container.,Custom Spec
+1037,Needs reinforced handles on boxes for safety reason,Custom Spec
+1038,Asked for customized sizing of the packaging.,Custom Spec
+1039,trial samples needed for our new eco friendly line,New Product Demand
+1040,"Out of stock reported, needs restocking.",Stocking Issue
+1041,"Another batch required urgently, same spec as previous",Repeat Order
+1042,Need emergency stock replenishment by Friday.,Urgent Need
+1043,Inventory outage pls expedite shipping if possible,Urgent Need
+1044,"Backorderscausing delays, need resupply ASAP. ASAP",Stocking Issue
+1045,trial samples needed for our new eco friendly line,New Product Demand
+1046,demo units requested to evaluate updated models,New Product Demand
+1047,trial samples needed for our new eco friendly line,New Product Demand
+1048,Repeat purchase request for Model 500Y,Repeat Order
+1049,needs reinforced handles on boxes for safety reason,Custom Spec
+1050,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1051,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1052,"Requesting rush shipping, shortage reported.",Urgent Need
+1053,Requestto modify packaging dimensions before shipment ASAP,Custom Spec
+1054,trial samples needed for our new eco friendly line,New Product Demand
+1055,Need emergency stock replenishment by Friday.,Urgent Need
+1056,warehouse almost out of stock for Model Y23,Stocking Issue
+1057,Request for custom color matching on containers.,Custom Spec
+1058,Request to modify packaging dimensions before shipment,Custom Spec
+1059,Clientexploring samples of 2024 line.,New Product Demand
+1060,"Delivery needed immediately, client facing outage.",Urgent Need
+1061,demounits requested to evaluate updated models,New Product Demand
+1062,Specification change: needs reinforced packaging.,Custom Spec
+1063,They are requesting a repeat of the previous order.,Repeat Order
+1064,Stockout reported for Model X1.,Stocking Issue
+1065,Rush request for product A45 due to customer escalation,Urgent Need
+1066,Wants special coating on the exterior.,Custom Spec
+1067,demounits requested to evaluate updated models,New Product Demand
+1068,custom size requested for container 560Z special handling needed,Custom Spec
+1069,"Delivery needed immediately, client facing outage.",Urgent Need
+1070,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1071,needs reinforced handles on boxes for safety reason,Custom Spec
+1072,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1073,Client wants another batch of 1000 units like last time.,Repeat Order
+1074,"running low on supplies again, please arrange dispatch ASAP",Stocking Issue
+1075,Need 300 more of the units ordered last month.,Repeat Order
+1076,First order placed for updated product variant.,New Product Demand
+1077,Exploring samples for a new product line.,New Product Demand
+1078,"Another batch required urgently, same spec as previous",Repeat Order
+1079,Repeat purchase request for Model 500Y,Repeat Order
+1080,Wants special coating on the exterior.,Custom Spec
+1081,Need300 more of the units ordered last month.,Repeat Order
+1082,"Anotherbatch required urgently, same spec as previous",Repeat Order
+1083,interest shown in 2025X prototype by client,New Product Demand
+1084,Placing a repeat request for item series 100X.,Repeat Order
+1085,"Delivery needed immediately, client facing outage.",Urgent Need
+1086,backorders increasing need quick replenishment,Stocking Issue
+1087,Need 300 more of the units ordered last month.,Repeat Order
+1088,Request for custom color matching on containers.,Custom Spec
+1089,Placinga repeat request for item series 100X.,Repeat Order
+1090,demounits requested to evaluate updated models,New Product Demand
+1091,They are requesting a repeat of the previous order.,Repeat Order
+1092,demounits requested to evaluate updated models,New Product Demand
+1093,Wants special coating on the exterior.,Custom Spec
+1094,Repeat purchase request for Model 500Y,Repeat Order
+1095,Request to modify packaging dimensions before shipment,Custom Spec
+1096,Theyare requesting a repeat of the previous order.,Repeat Order
+1097,They are requesting a repeat of the previous order.,Repeat Order
+1098,Exploring samples for a new product line.,New Product Demand
+1099,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1100,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1101,warehouse almost out of stock for Model Y23,Stocking Issue
+1102,Rush request for product A45 due to customer escalation,Urgent Need
+1103,"Backorders causing delays, need resupply asap.",Stocking Issue
+1104,inventory outage pls expedite shipping if possible,Urgent Need
+1105,"running low on supplies again, please arrange dispatch",Stocking Issue
+1106,First order placed for updated product variant.,New Product Demand
+1107,demo units requested to evaluate updated models,New Product Demand
+1108,"running low on supplies again, please arrange dispatch",Stocking Issue
+1109,demounits requested to evaluate updated models,New Product Demand
+1110,Stockout reported for Model X1.,Stocking Issue
+1111,They are requesting a repeat of the previous order.,Repeat Order
+1112,"Requesting rush shipping, shortage reported.",Urgent Need
+1113,"running low on supplies again, please arrange dispatch",Stocking Issue
+1114,Need 300 more of the units ordered last month.,Repeat Order
+1115,critical shortage reported need shipment by next week,Urgent Need
+1116,Request to modify packaging dimensions before shipment,Custom Spec
+1117,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1118,client needs same order as last month for product 450X,Repeat Order
+1119,Specification change: needs reinforced packaging.,Custom Spec
+1120,Request for non-standard dimension for container.,Custom Spec
+1121,Customized dimension required for part 780Y.,Custom Spec
+1122,warehouse almost out of stock for Model Y23,Stocking Issue
+1123,"Another batch required urgently, same spec as previous",Repeat Order
+1124,Client exploring samples of 2024 line.,New Product Demand
+1125,critical shortage reported need shipment by next week,Urgent Need
+1126,Client exploring samples of 2024 line.,New Product Demand
+1127,Rushrequest for product A45 due to customer escalation ASAP,Urgent Need
+1128,They are requesting a repeat of the previous order.,Repeat Order
+1129,They are requesting a repeat of the previous order.,Repeat Order
+1130,Needurgent delivery due to market launch next week. ASAP,Urgent Need
+1131,trial samples needed for our new eco friendly line,New Product Demand
+1132,Exploring samples for a new product line.,New Product Demand
+1133,inventory outage pls expedite shipping if possible,Urgent Need
+1134,Repeat purchase request for Model 500Y,Repeat Order
+1135,demo units requested to evaluate updated models,New Product Demand
+1136,needs reinforced handles on boxes for safety reason,Custom Spec
+1137,trial samples needed for our new eco friendly line,New Product Demand
+1138,warehouse almost out of stock for Model Y23,Stocking Issue
+1139,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1140,Need urgent delivery due to market launch next week.,Urgent Need
+1141,Customized dimension required for part 780Y.,Custom Spec
+1142,"Out of stock reported, needs restocking.",Stocking Issue
+1143,Asked for customized sizing of the packaging.,Custom Spec
+1144,Exploring samples for a new product line.,New Product Demand
+1145,backordersincreasing need quick replenishment,Stocking Issue
+1146,They are requesting a repeat of the previous order.,Repeat Order
+1147,Client exploring samples of 2024 line. ASAP,New Product Demand
+1148,Request for custom color matching on containers.,Custom Spec
+1149,"Delivery needed immediately, client facing outage.",Urgent Need
+1150,"Out of stock reported, needs restocking.",Stocking Issue
+1151,Stockout reported for Model X1.,Stocking Issue
+1152,warehouse almost out of stock for Model Y23,Stocking Issue
+1153,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1154,Exploring samples for a new product line.,New Product Demand
+1155,"Deliveryneeded immediately, client facing outage.",Urgent Need
+1156,Placing a repeat request for item series 100X.,Repeat Order
+1157,"Backorderscausing delays, need resupply asap.",Stocking Issue
+1158,"running low on supplies again, please arrange dispatch",Stocking Issue
+1159,"runninglow on supplies again, please arrange dispatch",Stocking Issue
+1160,Repeat purchase request for Model 500Y,Repeat Order
+1161,They are requesting a repeat of the previous order.,Repeat Order
+1162,Client exploring samples of 2024 line.,New Product Demand
+1163,Customizeddimension required for part 780Y.,Custom Spec
+1164,Request for custom color matching on containers.,Custom Spec
+1165,Exploringsamples for a new product line.,New Product Demand
+1166,Client exploring samples of 2024 line.,New Product Demand
+1167,Request to modify packaging dimensions before shipment,Custom Spec
+1168,client needs same order as last month for product 450X,Repeat Order
+1169,Trial order to test new technology batch.,New Product Demand
+1170,"Another batch required urgently, same spec as previous",Repeat Order
+1171,Trialorder to test new technology batch.,New Product Demand
+1172,Need emergency stock replenishment by friday.,Urgent Need
+1173,interest shown in 2025X prototype by client,New Product Demand
+1174,Rush request for product A45 due to customer escalation,Urgent Need
+1175,Request to modify packaging dimensions before shipment,Custom Spec
+1176,Rush request for product A45 due to customer escalation,Urgent Need
+1177,Specification change: needs reinforced packaging.,Custom Spec
+1178,Asked for customized sizing of the packaging.,Custom Spec
+1179,Request for non-standard dimension for container.,Custom Spec
+1180,Repeat purchase request for Model 500Y,Repeat Order
+1181,Customized dimension required for part 780Y.,Custom Spec
+1182,trial samples needed for our new eco friendly line,New Product Demand
+1183,client needs same order as last month for product 450X,Repeat Order
+1184,trial samples needed for our new eco friendly line,New Product Demand
+1185,Client wants another batch of 1000 units like last time.,Repeat Order
+1186,Request to modify packaging dimensions before shipment ASAP,Custom Spec
+1187,inventory outage pls expedite shipping if possible,Urgent Need
+1188,custom size requested for container 560Z special handling needed,Custom Spec
+1189,demo units requested to evaluate updated models,New Product Demand
+1190,interest shown in 2025X prototype by client ASAP,New Product Demand
+1191,"running low on supplies again, please arrange dispatch",Stocking Issue
+1192,"Another batch required urgently, same spec as previous",Repeat Order
+1193,backorders increasing need quick replenishment,Stocking Issue
+1194,demo units requested to evaluate updated models,New Product Demand
+1195,Repeat purchase request for Model 500Y,Repeat Order
+1196,Specification change: needs reinforced packaging.,Custom Spec
+1197,Wants special coating on the exterior.,Custom Spec
+1198,Customized dimension required for part 780y.,Custom Spec
+1199,Repeat purchase request for Model 500Y,Repeat Order
+1200,Exploringsamples for a new product line.,New Product Demand
+1201,"Warehousebackorder increasing, please resupply.",Stocking Issue
+1202,Repeatpurchase request for Model 500Y,Repeat Order
+1203,Request to modify packaging dimensions before shipment,Custom Spec
+1204,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1205,"Inventoryrunning low, client requests immediate resupply.",Stocking Issue
+1206,"Outof stock reported, needs restocking.",Stocking Issue
+1207,"Another batch required urgently, same spec as previous",Repeat Order
+1208,Client needs same order as last month for product 450x,Repeat Order
+1209,interestshown in 2025X prototype by client,New Product Demand
+1210,Specification change: needs reinforced packaging.,Custom Spec
+1211,inventory outage pls expedite shipping if possible,Urgent Need
+1212,Customized dimension required for part 780Y.,Custom Spec
+1213,Placing a repeat request for item series 100X.,Repeat Order
+1214,Client exploring samples of 2024 line.,New Product Demand
+1215,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1216,Clientexploring samples of 2024 line.,New Product Demand
+1217,Rush request for product a45 due to customer escalation,Urgent Need
+1218,Request to modify packaging dimensions before shipment,Custom Spec
+1219,"Delivery needed immediately, client facing outage.",Urgent Need
+1220,backorders increasing need quick replenishment,Stocking Issue
+1221,client needs same order as last month for product 450X,Repeat Order
+1222,Placing a repeat request for item series 100X. ASAP,Repeat Order
+1223,Rush request for product A45 due to customer escalation,Urgent Need
+1224,Repeat purchase request for Model 500Y,Repeat Order
+1225,client needs same order as last month for product 450X,Repeat Order
+1226,Needemergency stock replenishment by Friday.,Urgent Need
+1227,interestshown in 2025X prototype by client,New Product Demand
+1228,"Delivery needed immediately, client facing outage.",Urgent Need
+1229,Asked for customized sizing of the packaging.,Custom Spec
+1230,Need 300 more of the units ordered last month.,Repeat Order
+1231,critical shortage reported need shipment by next week,Urgent Need
+1232,First order placed for updated product variant. ASAP,New Product Demand
+1233,Client wants another batch of 1000 units like last time.,Repeat Order
+1234,inventory outage pls expedite shipping if possible,Urgent Need
+1235,Demo units requested to evaluate updated models,New Product Demand
+1236,trial samples needed for our new eco friendly line,New Product Demand
+1237,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1238,They are requesting a repeat of the previous order.,Repeat Order
+1239,"Requesting rush shipping, shortage reported.",Urgent Need
+1240,"running low on supplies again, please arrange dispatch",Stocking Issue
+1241,demo units requested to evaluate updated models,New Product Demand
+1242,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1243,Stockout reported for Model X1.,Stocking Issue
+1244,Clientexploring samples of 2024 line.,New Product Demand
+1245,Request to modify packaging dimensions before shipment,Custom Spec
+1246,Repeatpurchase request for Model 500Y,Repeat Order
+1247,Need 300 more of the units ordered last month.,Repeat Order
+1248,Request for non-standard dimension for container.,Custom Spec
+1249,customsize requested for container 560Z special handling needed,Custom Spec
+1250,custom size requested for container 560Z special handling needed,Custom Spec
+1251,Trial order to test new technology batch.,New Product Demand
+1252,trial samples needed for our new eco friendly line,New Product Demand
+1253,backorders increasing need quick replenishment,Stocking Issue
+1254,needs reinforced handles on boxes for safety reason,Custom Spec
+1255,client needs same order as last month for product 450X ASAP,Repeat Order
+1256,needs reinforced handles on boxes for safety reason,Custom Spec
+1257,Stockoutreported for Model X1.,Stocking Issue
+1258,Wants special coating on the exterior.,Custom Spec
+1259,Repeat purchase request for Model 500Y,Repeat Order
+1260,needs reinforced handles on boxes for safety reason ASAP,Custom Spec
+1261,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1262,Request for non-standard dimension for container.,Custom Spec
+1263,Placing a repeat request for item series 100X.,Repeat Order
+1264,trialsamples needed for our new eco friendly line,New Product Demand
+1265,trial samples needed for our new eco friendly line,New Product Demand
+1266,Exploring samples for a new product line.,New Product Demand
+1267,demo units requested to evaluate updated models,New Product Demand
+1268,backordersincreasing need quick replenishment,Stocking Issue
+1269,Asked for customized sizing of the packaging.,Custom Spec
+1270,Need 300 more of the units ordered last month.,Repeat Order
+1271,Trial order to test new technology batch.,New Product Demand
+1272,Rush request for product A45 due to customer escalation,Urgent Need
+1273,"Out of stock reported, needs restocking.",Stocking Issue
+1274,Client exploring samples of 2024 line.,New Product Demand
+1275,demo units requested to evaluate updated models,New Product Demand
+1276,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1277,demo units requested to evaluate updated models,New Product Demand
+1278,trial samples needed for our new eco friendly line,New Product Demand
+1279,They are requesting a repeat of the previous order.,Repeat Order
+1280,client needs same order as last month for product 450X,Repeat Order
+1281,They are requesting a repeat of the previous order.,Repeat Order
+1282,"running low on supplies again, please arrange dispatch",Stocking Issue
+1283,Stockout reported for Model X1.,Stocking Issue
+1284,demo units requested to evaluate updated models,New Product Demand
+1285,Need 300 more of the units ordered last month.,Repeat Order
+1286,Stockout reported for Model X1.,Stocking Issue
+1287,demo units requested to evaluate updated models,New Product Demand
+1288,client needs same order as last month for product 450X,Repeat Order
+1289,"Delivery needed immediately, client facing outage.",Urgent Need
+1290,Client wants another batch of 1000 units like last time.,Repeat Order
+1291,Rush request for product A45 due to customer escalation,Urgent Need
+1292,Wants special coating on the exterior.,Custom Spec
+1293,Request for non-standard dimension for container.,Custom Spec
+1294,"Requesting rush shipping, shortage reported.",Urgent Need
+1295,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1296,Needemergency stock replenishment by Friday.,Urgent Need
+1297,critical shortage reported need shipment by next week,Urgent Need
+1298,Need emergency stock replenishment by Friday.,Urgent Need
+1299,Repeat purchase request for Model 500Y,Repeat Order
+1300,"Another batch required urgently, same spec as previous",Repeat Order
+1301,Askedfor customized sizing of the packaging.,Custom Spec
+1302,Rushrequest for product A45 due to customer escalation,Urgent Need
+1303,criticalshortage reported need shipment by next week,Urgent Need
+1304,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1305,Request for non-standard dimension for container.,Custom Spec
+1306,trialsamples needed for our new eco friendly line,New Product Demand
+1307,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1308,Request to modify packaging dimensions before shipment,Custom Spec
+1309,inventoryoutage pls expedite shipping if possible ASAP,Urgent Need
+1310,Repeatpurchase request for Model 500Y,Repeat Order
+1311,Need emergency stock replenishment by Friday.,Urgent Need
+1312,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1313,trial samples needed for our new eco friendly line,New Product Demand
+1314,demo units requested to evaluate updated models,New Product Demand
+1315,Placing a repeat request for item series 100X.,Repeat Order
+1316,inventory outage pls expedite shipping if possible,Urgent Need
+1317,Request for non-standard dimension for container.,Custom Spec
+1318,demo units requested to evaluate updated models,New Product Demand
+1319,First order placed for updated product variant.,New Product Demand
+1320,Need urgent delivery due to market launch next week.,Urgent Need
+1321,They are requesting a repeat of the previous order.,Repeat Order
+1322,Rush request for product A45 due to customer escalation,Urgent Need
+1323,Stockout reported for Model X1.,Stocking Issue
+1324,Stockout reported for Model X1.,Stocking Issue
+1325,warehouse almost out of stock for Model Y23,Stocking Issue
+1326,Exploring samples for a new product line.,New Product Demand
+1327,Asked for customized sizing of the packaging.,Custom Spec
+1328,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1329,Custom size requested for container 560z special handling needed,Custom Spec
+1330,"Delivery needed immediately, client facing outage.",Urgent Need
+1331,backorders increasing need quick replenishment,Stocking Issue
+1332,critical shortage reported need shipment by next week ASAP,Urgent Need
+1333,Request for custom color matching on containers.,Custom Spec
+1334,Requestto modify packaging dimensions before shipment,Custom Spec
+1335,warehouse almost out of stock for Model Y23,Stocking Issue
+1336,"Out of stock reported, needs restocking.",Stocking Issue
+1337,Needurgent delivery due to market launch next week.,Urgent Need
+1338,Need urgent delivery due to market launch next week.,Urgent Need
+1339,Need300 more of the units ordered last month.,Repeat Order
+1340,warehouse almost out of stock for Model Y23,Stocking Issue
+1341,Wants special coating on the exterior.,Custom Spec
+1342,Need urgent delivery due to market launch next week.,Urgent Need
+1343,interest shown in 2025X prototype by client,New Product Demand
+1344,Request to modify packaging dimensions before shipment,Custom Spec
+1345,"Another batch required urgently, same spec as previous",Repeat Order
+1346,Trial order to test new technology batch.,New Product Demand
+1347,Asked for customized sizing of the packaging.,Custom Spec
+1348,critical shortage reported need shipment by next week,Urgent Need
+1349,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1350,Trial order to test new technology batch. ASAP,New Product Demand
+1351,Needemergency stock replenishment by Friday.,Urgent Need
+1352,Client exploring samples of 2024 line.,New Product Demand
+1353,Need 300 more of the units ordered last month.,Repeat Order
+1354,interest shown in 2025X prototype by client,New Product Demand
+1355,inventory outage pls expedite shipping if possible,Urgent Need
+1356,"Requesting rush shipping, shortage reported. ASAP",Urgent Need
+1357,Stockout reported for Model X1.,Stocking Issue
+1358,Needs reinforced handles on boxes for safety reason,Custom Spec
+1359,Requestfor non-standard dimension for container.,Custom Spec
+1360,Stockout reported for Model X1.,Stocking Issue
+1361,Firstorder placed for updated product variant.,New Product Demand
+1362,"Delivery needed immediately, client facing outage.",Urgent Need
+1363,"Out of stock reported, needs restocking.",Stocking Issue
+1364,Exploring samples for a new product line.,New Product Demand
+1365,First order placed for updated product variant.,New Product Demand
+1366,"Out of stock reported, needs restocking.",Stocking Issue
+1367,Need 300 more of the units ordered last month.,Repeat Order
+1368,Wantsspecial coating on the exterior.,Custom Spec
+1369,Trial order to test new technology batch.,New Product Demand
+1370,backorders increasing need quick replenishment,Stocking Issue
+1371,Backorders increasing need quick replenishment,Stocking Issue
+1372,needs reinforced handles on boxes for safety reason,Custom Spec
+1373,Client exploring samples of 2024 line.,New Product Demand
+1374,warehouse almost out of stock for Model Y23,Stocking Issue
+1375,Rush request for product A45 due to customer escalation,Urgent Need
+1376,Request to modify packaging dimensions before shipment ASAP,Custom Spec
+1377,Need emergency stock replenishment by friday.,Urgent Need
+1378,Placinga repeat request for item series 100X.,Repeat Order
+1379,They are requesting a repeat of the previous order.,Repeat Order
+1380,They are requesting a repeat of the previous order.,Repeat Order
+1381,Placing a repeat request for item series 100X.,Repeat Order
+1382,Asked for customized sizing of the packaging.,Custom Spec
+1383,Specification change: needs reinforced packaging.,Custom Spec
+1384,Request to modify packaging dimensions before shipment,Custom Spec
+1385,Request for custom color matching on containers.,Custom Spec
+1386,Wants special coating on the exterior.,Custom Spec
+1387,Need 300 more of the units ordered last month.,Repeat Order
+1388,Warehouse almost out of stock for model y23,Stocking Issue
+1389,Customized dimension required for part 780Y.,Custom Spec
+1390,Wants special coating on the exterior.,Custom Spec
+1391,Need 300 more of the units ordered last month.,Repeat Order
+1392,Placing a repeat request for item series 100X.,Repeat Order
+1393,"Warehousebackorder increasing, please resupply.",Stocking Issue
+1394,needsreinforced handles on boxes for safety reason,Custom Spec
+1395,Rush request for product A45 due to customer escalation,Urgent Need
+1396,backorders increasing need quick replenishment,Stocking Issue
+1397,"Requesting rush shipping, shortage reported.",Urgent Need
+1398,"Requestingrush shipping, shortage reported.",Urgent Need
+1399,Stockout reported for Model X1.,Stocking Issue
+1400,Stockoutreported for Model X1.,Stocking Issue
+1401,Exploring samples for a new product line.,New Product Demand
+1402,interest shown in 2025X prototype by client,New Product Demand
+1403,Theyare requesting a repeat of the previous order.,Repeat Order
+1404,Rush request for product A45 due to customer escalation,Urgent Need
+1405,Placing a repeat request for item series 100X.,Repeat Order
+1406,Rush request for product A45 due to customer escalation,Urgent Need
+1407,Client wants another batch of 1000 units like last time.,Repeat Order
+1408,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1409,Rush request for product A45 due to customer escalation,Urgent Need
+1410,Asked for customized sizing of the packaging.,Custom Spec
+1411,"Deliveryneeded immediately, client facing outage.",Urgent Need
+1412,Repeat purchase request for Model 500Y,Repeat Order
+1413,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1414,Customized dimension required for part 780Y.,Custom Spec
+1415,"Runninglow on supplies again, please arrange dispatch",Stocking Issue
+1416,They are requesting a repeat of the previous order.,Repeat Order
+1417,Trial order to test new technology batch.,New Product Demand
+1418,Request for custom color matching on containers.,Custom Spec
+1419,custom size requested for container 560Z special handling needed,Custom Spec
+1420,demo units requested to evaluate updated models,New Product Demand
+1421,demo units requested to evaluate updated models,New Product Demand
+1422,trial samples needed for our new eco friendly line,New Product Demand
+1423,inventory outage pls expedite shipping if possible,Urgent Need
+1424,Theyare requesting a repeat of the previous order.,Repeat Order
+1425,Specificationchange: needs reinforced packaging.,Custom Spec
+1426,Customized dimension required for part 780Y.,Custom Spec
+1427,Rush request for product a45 due to customer escalation,Urgent Need
+1428,Need 300 more of the units ordered last month. ASAP,Repeat Order
+1429,critical shortage reported need shipment by next week,Urgent Need
+1430,Clientwants another batch of 1000 units like last time.,Repeat Order
+1431,"Delivery needed immediately, client facing outage.",Urgent Need
+1432,Repeatpurchase request for Model 500Y,Repeat Order
+1433,"Another batch required urgently, same spec as previous",Repeat Order
+1434,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1435,Need 300 more of the units ordered last month.,Repeat Order
+1436,trial samples needed for our new eco friendly line,New Product Demand
+1437,"Requesting rush shipping, shortage reported.",Urgent Need
+1438,demo units requested to evaluate updated models,New Product Demand
+1439,Repeat purchase request for Model 500Y,Repeat Order
+1440,"Delivery needed immediately, client facing outage.",Urgent Need
+1441,Repeat purchase request for Model 500Y,Repeat Order
+1442,"Out of stock reported, needs restocking.",Stocking Issue
+1443,They are requesting a repeat of the previous order.,Repeat Order
+1444,client needs same order as last month for product 450X,Repeat Order
+1445,demo units requested to evaluate updated models,New Product Demand
+1446,backorders increasing need quick replenishment,Stocking Issue
+1447,Request for non-standard dimension for container.,Custom Spec
+1448,critical shortage reported need shipment by next week,Urgent Need
+1449,Repeat purchase request for Model 500Y,Repeat Order
+1450,Stockout reported for Model X1.,Stocking Issue
+1451,Needs reinforced handles on boxes for safety reason,Custom Spec
+1452,Warehouse almost out of stock for model y23,Stocking Issue
+1453,Stockout reported for model x1.,Stocking Issue
+1454,backorders increasing need quick replenishment,Stocking Issue
+1455,"Out of stock reported, needs restocking.",Stocking Issue
+1456,Need urgent delivery due to market launch next week.,Urgent Need
+1457,Asked for customized sizing of the packaging.,Custom Spec
+1458,clientneeds same order as last month for product 450X,Repeat Order
+1459,"Requesting rush shipping, shortage reported.",Urgent Need
+1460,Trial order to test new technology batch.,New Product Demand
+1461,First order placed for updated product variant.,New Product Demand
+1462,trial samples needed for our new eco friendly line,New Product Demand
+1463,Request for custom color matching on containers.,Custom Spec
+1464,"Another batch required urgently, same spec as previous",Repeat Order
+1465,Request for custom color matching on containers.,Custom Spec
+1466,Specification change: needs reinforced packaging.,Custom Spec
+1467,Request to modify packaging dimensions before shipment,Custom Spec
+1468,trial samples needed for our new eco friendly line,New Product Demand
+1469,warehouse almost out of stock for Model Y23,Stocking Issue
+1470,"Another batch required urgently, same spec as previous",Repeat Order
+1471,critical shortage reported need shipment by next week,Urgent Need
+1472,"Out of stock reported, needs restocking.",Stocking Issue
+1473,customsize requested for container 560Z special handling needed,Custom Spec
+1474,Client wants another batch of 1000 units like last time.,Repeat Order
+1475,"Backorders causing delays, need resupply asap.",Stocking Issue
+1476,Asked for customized sizing of the packaging.,Custom Spec
+1477,Customized dimension required for part 780Y. ASAP,Custom Spec
+1478,"Backorders causing delays, need resupply asap.",Stocking Issue
+1479,Need urgent delivery due to market launch next week.,Urgent Need
+1480,Customized dimension required for part 780Y.,Custom Spec
+1481,Client exploring samples of 2024 line.,New Product Demand
+1482,inventory outage pls expedite shipping if possible,Urgent Need
+1483,warehousealmost out of stock for Model Y23,Stocking Issue
+1484,"Another batch required urgently, same spec as previous",Repeat Order
+1485,inventory outage pls expedite shipping if possible ASAP,Urgent Need
+1486,"Another batch required urgently, same spec as previous",Repeat Order
+1487,First order placed for updated product variant.,New Product Demand
+1488,"Anotherbatch required urgently, same spec as previous",Repeat Order
+1489,Exploring samples for a new product line.,New Product Demand
+1490,Needurgent delivery due to market launch next week.,Urgent Need
+1491,"Running low on supplies again, please arrange dispatch",Stocking Issue
+1492,First order placed for updated product variant.,New Product Demand
+1493,interest shown in 2025X prototype by client,New Product Demand
+1494,Exploring samples for a new product line.,New Product Demand
+1495,interest shown in 2025X prototype by client,New Product Demand
+1496,"Requesting rush shipping, shortage reported.",Urgent Need
+1497,Theyare requesting a repeat of the previous order. ASAP,Repeat Order
+1498,trialsamples needed for our new eco friendly line,New Product Demand
+1499,custom size requested for container 560Z special handling needed,Custom Spec
+1500,Request for non-standard dimension for container.,Custom Spec
+1501,Rush request for product A45 due to customer escalation,Urgent Need
+1502,Need urgent delivery due to market launch next week.,Urgent Need
+1503,Backorders increasing need quick replenishment,Stocking Issue
+1504,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1505,Specification change: needs reinforced packaging.,Custom Spec
+1506,Exploring samples for a new product line.,New Product Demand
+1507,"Delivery needed immediately, client facing outage.",Urgent Need
+1508,Wants special coating on the exterior.,Custom Spec
+1509,First order placed for updated product variant.,New Product Demand
+1510,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1511,trial samples needed for our new eco friendly line,New Product Demand
+1512,Wants special coating on the exterior.,Custom Spec
+1513,Repeat purchase request for Model 500Y,Repeat Order
+1514,needs reinforced handles on boxes for safety reason,Custom Spec
+1515,demo units requested to evaluate updated models,New Product Demand
+1516,Repeat purchase request for Model 500Y,Repeat Order
+1517,Placing a repeat request for item series 100X.,Repeat Order
+1518,needs reinforced handles on boxes for safety reason,Custom Spec
+1519,inventory outage pls expedite shipping if possible,Urgent Need
+1520,They are requesting a repeat of the previous order.,Repeat Order
+1521,"Out of stock reported, needs restocking.",Stocking Issue
+1522,interest shown in 2025X prototype by client,New Product Demand
+1523,"Delivery needed immediately, client facing outage.",Urgent Need
+1524,Request for non-standard dimension for container.,Custom Spec
+1525,demo units requested to evaluate updated models,New Product Demand
+1526,Placing a repeat request for item series 100X.,Repeat Order
+1527,Client wants another batch of 1000 units like last time.,Repeat Order
+1528,interest shown in 2025X prototype by client,New Product Demand
+1529,Need urgent delivery due to market launch next week.,Urgent Need
+1530,inventory outage pls expedite shipping if possible,Urgent Need
+1531,Request to modify packaging dimensions before shipment,Custom Spec
+1532,They are requesting a repeat of the previous order.,Repeat Order
+1533,Customizeddimension required for part 780Y. ASAP,Custom Spec
+1534,Request for non-standard dimension for container.,Custom Spec
+1535,Customized dimension required for part 780Y.,Custom Spec
+1536,Wants special coating on the exterior.,Custom Spec
+1537,backorders increasing need quick replenishment,Stocking Issue
+1538,"Outof stock reported, needs restocking.",Stocking Issue
+1539,Specification change: needs reinforced packaging.,Custom Spec
+1540,client needs same order as last month for product 450X,Repeat Order
+1541,client needs same order as last month for product 450X,Repeat Order
+1542,Stockout reported for Model X1.,Stocking Issue
+1543,Asked for customized sizing of the packaging.,Custom Spec
+1544,warehouse almost out of stock for Model Y23 ASAP,Stocking Issue
+1545,needs reinforced handles on boxes for safety reason,Custom Spec
+1546,inventory outage pls expedite shipping if possible,Urgent Need
+1547,Stockout reported for Model X1. ASAP,Stocking Issue
+1548,inventory outage pls expedite shipping if possible,Urgent Need
+1549,Need 300 more of the units ordered last month.,Repeat Order
+1550,Asked for customized sizing of the packaging.,Custom Spec
+1551,critical shortage reported need shipment by next week,Urgent Need
+1552,Placing a repeat request for item series 100x.,Repeat Order
+1553,backorders increasing need quick replenishment,Stocking Issue
+1554,Clientexploring samples of 2024 line.,New Product Demand
+1555,Client exploring samples of 2024 line. ASAP,New Product Demand
+1556,First order placed for updated product variant.,New Product Demand
+1557,interest shown in 2025X prototype by client,New Product Demand
+1558,needs reinforced handles on boxes for safety reason,Custom Spec
+1559,Need urgent delivery due to market launch next week.,Urgent Need
+1560,Request for custom color matching on containers.,Custom Spec
+1561,Asked for customized sizing of the packaging.,Custom Spec
+1562,"running low on supplies again, please arrange dispatch",Stocking Issue
+1563,interest shown in 2025X prototype by client,New Product Demand
+1564,Trial order to test new technology batch.,New Product Demand
+1565,Trial order to test new technology batch.,New Product Demand
+1566,Request for non-standard dimension for container. ASAP,Custom Spec
+1567,critical shortage reported need shipment by next week,Urgent Need
+1568,Specification change: needs reinforced packaging. ASAP,Custom Spec
+1569,Exploring samples for a new product line.,New Product Demand
+1570,Request to modify packaging dimensions before shipment,Custom Spec
+1571,Need emergency stock replenishment by Friday.,Urgent Need
+1572,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1573,Backorders increasing need quick replenishment,Stocking Issue
+1574,Repeat purchase request for Model 500Y,Repeat Order
+1575,Exploring samples for a new product line.,New Product Demand
+1576,Need emergency stock replenishment by friday.,Urgent Need
+1577,Request for custom color matching on containers.,Custom Spec
+1578,First order placed for updated product variant. ASAP,New Product Demand
+1579,interestshown in 2025X prototype by client,New Product Demand
+1580,clientneeds same order as last month for product 450X,Repeat Order
+1581,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1582,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1583,Customizeddimension required for part 780Y.,Custom Spec
+1584,Need300 more of the units ordered last month.,Repeat Order
+1585,"Requesting rush shipping, shortage reported.",Urgent Need
+1586,Request for non-standard dimension for container.,Custom Spec
+1587,Client wants another batch of 1000 units like last time. ASAP,Repeat Order
+1588,Placing a repeat request for item series 100X.,Repeat Order
+1589,Wantsspecial coating on the exterior.,Custom Spec
+1590,Requestto modify packaging dimensions before shipment,Custom Spec
+1591,"Delivery needed immediately, client facing outage.",Urgent Need
+1592,"Requesting rush shipping, shortage reported.",Urgent Need
+1593,Customized dimension required for part 780Y.,Custom Spec
+1594,Rush request for product a45 due to customer escalation,Urgent Need
+1595,Requestto modify packaging dimensions before shipment,Custom Spec
+1596,First order placed for updated product variant.,New Product Demand
+1597,backorders increasing need quick replenishment,Stocking Issue
+1598,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1599,"running low on supplies again, please arrange dispatch",Stocking Issue
+1600,Need300 more of the units ordered last month.,Repeat Order
+1601,needs reinforced handles on boxes for safety reason,Custom Spec
+1602,"Delivery needed immediately, client facing outage.",Urgent Need
+1603,Need 300 more of the units ordered last month.,Repeat Order
+1604,Client wants another batch of 1000 units like last time.,Repeat Order
+1605,"Delivery needed immediately, client facing outage.",Urgent Need
+1606,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1607,Specification change: needs reinforced packaging.,Custom Spec
+1608,Request for non-standard dimension for container.,Custom Spec
+1609,"Backorderscausing delays, need resupply ASAP.",Stocking Issue
+1610,"Delivery needed immediately, client facing outage.",Urgent Need
+1611,Placing a repeat request for item series 100X.,Repeat Order
+1612,Rushrequest for product A45 due to customer escalation,Urgent Need
+1613,First order placed for updated product variant.,New Product Demand
+1614,Exploring samples for a new product line.,New Product Demand
+1615,Placinga repeat request for item series 100X.,Repeat Order
+1616,critical shortage reported need shipment by next week,Urgent Need
+1617,Placing a repeat request for item series 100X.,Repeat Order
+1618,Trialorder to test new technology batch.,New Product Demand
+1619,"Backorders causing delays, need resupply asap.",Stocking Issue
+1620,Client exploring samples of 2024 line.,New Product Demand
+1621,Trial order to test new technology batch.,New Product Demand
+1622,"Delivery needed immediately, client facing outage.",Urgent Need
+1623,"Warehousebackorder increasing, please resupply.",Stocking Issue
+1624,backorders increasing need quick replenishment,Stocking Issue
+1625,Stockout reported for Model X1.,Stocking Issue
+1626,Wants special coating on the exterior.,Custom Spec
+1627,Specification change: needs reinforced packaging.,Custom Spec
+1628,Repeat purchase request for Model 500Y,Repeat Order
+1629,Placing a repeat request for item series 100X. ASAP,Repeat Order
+1630,demounits requested to evaluate updated models,New Product Demand
+1631,"Delivery needed immediately, client facing outage.",Urgent Need
+1632,warehouse almost out of stock for Model Y23,Stocking Issue
+1633,Repeatpurchase request for Model 500Y,Repeat Order
+1634,warehousealmost out of stock for Model Y23,Stocking Issue
+1635,"running low on supplies again, please arrange dispatch",Stocking Issue
+1636,Request for non-standard dimension for container.,Custom Spec
+1637,"Requesting rush shipping, shortage reported.",Urgent Need
+1638,They are requesting a repeat of the previous order.,Repeat Order
+1639,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1640,demo units requested to evaluate updated models,New Product Demand
+1641,Customized dimension required for part 780Y.,Custom Spec
+1642,"running low on supplies again, please arrange dispatch",Stocking Issue
+1643,Client exploring samples of 2024 line.,New Product Demand
+1644,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1645,backorders increasing need quick replenishment,Stocking Issue
+1646,critical shortage reported need shipment by next week,Urgent Need
+1647,Need 300 more of the units ordered last month.,Repeat Order
+1648,Clientwants another batch of 1000 units like last time.,Repeat Order
+1649,Stockout reported for Model X1.,Stocking Issue
+1650,critical shortage reported need shipment by next week,Urgent Need
+1651,Needurgent delivery due to market launch next week.,Urgent Need
+1652,Customized dimension required for part 780Y.,Custom Spec
+1653,Specification change: needs reinforced packaging.,Custom Spec
+1654,Stockoutreported for Model X1.,Stocking Issue
+1655,Repeat purchase request for Model 500Y,Repeat Order
+1656,Request for non-standard dimension for container.,Custom Spec
+1657,Request to modify packaging dimensions before shipment ASAP,Custom Spec
+1658,trial samples needed for our new eco friendly line,New Product Demand
+1659,Repeat purchase request for Model 500Y,Repeat Order
+1660,Theyare requesting a repeat of the previous order.,Repeat Order
+1661,Requestto modify packaging dimensions before shipment,Custom Spec
+1662,Repeat purchase request for Model 500Y,Repeat Order
+1663,Request for non-standard dimension for container.,Custom Spec
+1664,"running low on supplies again, please arrange dispatch",Stocking Issue
+1665,Trialorder to test new technology batch.,New Product Demand
+1666,"Out of stock reported, needs restocking.",Stocking Issue
+1667,Rush request for product A45 due to customer escalation,Urgent Need
+1668,Need emergency stock replenishment by Friday.,Urgent Need
+1669,Requestfor custom color matching on containers.,Custom Spec
+1670,warehousealmost out of stock for Model Y23,Stocking Issue
+1671,demo units requested to evaluate updated models,New Product Demand
+1672,"Requesting rush shipping, shortage reported.",Urgent Need
+1673,Exploring samples for a new product line.,New Product Demand
+1674,inventory outage pls expedite shipping if possible,Urgent Need
+1675,Critical shortage reported need shipment by next week,Urgent Need
+1676,Specification change: needs reinforced packaging.,Custom Spec
+1677,"Running low on supplies again, please arrange dispatch",Stocking Issue
+1678,"Anotherbatch required urgently, same spec as previous",Repeat Order
+1679,client needs same order as last month for product 450X,Repeat Order
+1680,trial samples needed for our new eco friendly line,New Product Demand
+1681,Customizeddimension required for part 780Y.,Custom Spec
+1682,Rush request for product A45 due to customer escalation,Urgent Need
+1683,"running low on supplies again, please arrange dispatch",Stocking Issue
+1684,custom size requested for container 560Z special handling needed,Custom Spec
+1685,trial samples needed for our new eco friendly line,New Product Demand
+1686,Need emergency stock replenishment by Friday.,Urgent Need
+1687,First order placed for updated product variant.,New Product Demand
+1688,Clientwants another batch of 1000 units like last time.,Repeat Order
+1689,demo units requested to evaluate updated models ASAP,New Product Demand
+1690,They are requesting a repeat of the previous order.,Repeat Order
+1691,interest shown in 2025X prototype by client,New Product Demand
+1692,Wantsspecial coating on the exterior.,Custom Spec
+1693,Exploringsamples for a new product line.,New Product Demand
+1694,Placinga repeat request for item series 100X.,Repeat Order
+1695,client needs same order as last month for product 450X,Repeat Order
+1696,demounits requested to evaluate updated models,New Product Demand
+1697,Stockout reported for Model X1.,Stocking Issue
+1698,Client wants another batch of 1000 units like last time.,Repeat Order
+1699,inventory outage pls expedite shipping if possible,Urgent Need
+1700,"Out of stock reported, needs restocking.",Stocking Issue
+1701,"Delivery needed immediately, client facing outage.",Urgent Need
+1702,Trial order to test new technology batch.,New Product Demand
+1703,critical shortage reported need shipment by next week,Urgent Need
+1704,Placinga repeat request for item series 100X.,Repeat Order
+1705,inventoryoutage pls expedite shipping if possible,Urgent Need
+1706,Need urgent delivery due to market launch next week.,Urgent Need
+1707,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1708,Needurgent delivery due to market launch next week.,Urgent Need
+1709,Repeat purchase request for Model 500Y ASAP,Repeat Order
+1710,Trial order to test new technology batch.,New Product Demand
+1711,inventoryoutage pls expedite shipping if possible,Urgent Need
+1712,"Another batch required urgently, same spec as previous",Repeat Order
+1713,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1714,Exploring samples for a new product line.,New Product Demand
+1715,Stockout reported for Model X1.,Stocking Issue
+1716,Asked for customized sizing of the packaging.,Custom Spec
+1717,"running low on supplies again, please arrange dispatch",Stocking Issue
+1718,Placing a repeat request for item series 100X.,Repeat Order
+1719,Repeat purchase request for Model 500Y,Repeat Order
+1720,interest shown in 2025X prototype by client,New Product Demand
+1721,Repeatpurchase request for Model 500Y,Repeat Order
+1722,Rushrequest for product A45 due to customer escalation,Urgent Need
+1723,Trial order to test new technology batch.,New Product Demand
+1724,trial samples needed for our new eco friendly line,New Product Demand
+1725,Customized dimension required for part 780Y.,Custom Spec
+1726,Need emergency stock replenishment by Friday.,Urgent Need
+1727,warehousealmost out of stock for Model Y23,Stocking Issue
+1728,Need urgent delivery due to market launch next week.,Urgent Need
+1729,demounits requested to evaluate updated models,New Product Demand
+1730,Rushrequest for product A45 due to customer escalation,Urgent Need
+1731,client needs same order as last month for product 450X,Repeat Order
+1732,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1733,Repeat purchase request for Model 500Y,Repeat Order
+1734,Demo units requested to evaluate updated models,New Product Demand
+1735,Request for non-standard dimension for container.,Custom Spec
+1736,Trial order to test new technology batch.,New Product Demand
+1737,First order placed for updated product variant.,New Product Demand
+1738,backorders increasing need quick replenishment,Stocking Issue
+1739,"Another batch required urgently, same spec as previous ASAP",Repeat Order
+1740,Client wants another batch of 1000 units like last time.,Repeat Order
+1741,Clientexploring samples of 2024 line.,New Product Demand
+1742,needs reinforced handles on boxes for safety reason,Custom Spec
+1743,"Requesting rush shipping, shortage reported.",Urgent Need
+1744,First order placed for updated product variant.,New Product Demand
+1745,Request for custom color matching on containers.,Custom Spec
+1746,clientneeds same order as last month for product 450X,Repeat Order
+1747,Exploring samples for a new product line.,New Product Demand
+1748,"Out of stock reported, needs restocking.",Stocking Issue
+1749,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1750,"Another batch required urgently, same spec as previous",Repeat Order
+1751,Request for non-standard dimension for container.,Custom Spec
+1752,Need300 more of the units ordered last month.,Repeat Order
+1753,customsize requested for container 560Z special handling needed ASAP,Custom Spec
+1754,"Out of stock reported, needs restocking.",Stocking Issue
+1755,Wantsspecial coating on the exterior.,Custom Spec
+1756,Need urgent delivery due to market launch next week.,Urgent Need
+1757,Request for custom color matching on containers.,Custom Spec
+1758,Rushrequest for product A45 due to customer escalation,Urgent Need
+1759,"Out of stock reported, needs restocking.",Stocking Issue
+1760,"Anotherbatch required urgently, same spec as previous",Repeat Order
+1761,Need urgent delivery due to market launch next week.,Urgent Need
+1762,clientneeds same order as last month for product 450X,Repeat Order
+1763,Need emergency stock replenishment by Friday.,Urgent Need
+1764,Stockout reported for Model X1.,Stocking Issue
+1765,backorders increasing need quick replenishment,Stocking Issue
+1766,Client exploring samples of 2024 line.,New Product Demand
+1767,Trial samples needed for our new eco friendly line,New Product Demand
+1768,They are requesting a repeat of the previous order.,Repeat Order
+1769,Stockout reported for Model X1.,Stocking Issue
+1770,trial samples needed for our new eco friendly line,New Product Demand
+1771,custom size requested for container 560Z special handling needed,Custom Spec
+1772,Customized dimension required for part 780Y.,Custom Spec
+1773,trial samples needed for our new eco friendly line,New Product Demand
+1774,trial samples needed for our new eco friendly line,New Product Demand
+1775,Customized dimension required for part 780Y.,Custom Spec
+1776,Requestfor custom color matching on containers.,Custom Spec
+1777,First order placed for updated product variant.,New Product Demand
+1778,Stockout reported for Model X1.,Stocking Issue
+1779,demounits requested to evaluate updated models,New Product Demand
+1780,Placinga repeat request for item series 100x.,Repeat Order
+1781,"Inventoryrunning low, client requests immediate resupply.",Stocking Issue
+1782,demo units requested to evaluate updated models,New Product Demand
+1783,backorders increasing need quick replenishment,Stocking Issue
+1784,needs reinforced handles on boxes for safety reason,Custom Spec
+1785,warehouse almost out of stock for Model Y23,Stocking Issue
+1786,Wantsspecial coating on the exterior.,Custom Spec
+1787,Exploring samples for a new product line.,New Product Demand
+1788,Client needs same order as last month for product 450x,Repeat Order
+1789,Trial order to test new technology batch.,New Product Demand
+1790,Placing a repeat request for item series 100X.,Repeat Order
+1791,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1792,They are requesting a repeat of the previous order.,Repeat Order
+1793,Customized dimension required for part 780Y.,Custom Spec
+1794,"Delivery needed immediately, client facing outage.",Urgent Need
+1795,"Requesting rush shipping, shortage reported.",Urgent Need
+1796,Request for non-standard dimension for container. ASAP,Custom Spec
+1797,"Out of stock reported, needs restocking.",Stocking Issue
+1798,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1799,inventory outage pls expedite shipping if possible,Urgent Need
+1800,needs reinforced handles on boxes for safety reason,Custom Spec
+1801,Client exploring samples of 2024 line.,New Product Demand
+1802,Theyare requesting a repeat of the previous order.,Repeat Order
+1803,Customized dimension required for part 780Y.,Custom Spec
+1804,"Out of stock reported, needs restocking.",Stocking Issue
+1805,Wants special coating on the exterior. ASAP,Custom Spec
+1806,Rush request for product A45 due to customer escalation,Urgent Need
+1807,Theyare requesting a repeat of the previous order.,Repeat Order
+1808,inventory outage pls expedite shipping if possible,Urgent Need
+1809,"Delivery needed immediately, client facing outage.",Urgent Need
+1810,Clientexploring samples of 2024 line.,New Product Demand
+1811,Customizeddimension required for part 780Y.,Custom Spec
+1812,"Delivery needed immediately, client facing outage.",Urgent Need
+1813,Request for non-standard dimension for container.,Custom Spec
+1814,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1815,critical shortage reported need shipment by next week,Urgent Need
+1816,Client wants another batch of 1000 units like last time.,Repeat Order
+1817,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1818,Need 300 more of the units ordered last month.,Repeat Order
+1819,client needs same order as last month for product 450X,Repeat Order
+1820,critical shortage reported need shipment by next week,Urgent Need
+1821,warehouse almost out of stock for Model Y23,Stocking Issue
+1822,Placing a repeat request for item series 100x.,Repeat Order
+1823,Stockout reported for Model X1.,Stocking Issue
+1824,Repeatpurchase request for Model 500Y,Repeat Order
+1825,trial samples needed for our new eco friendly line ASAP,New Product Demand
+1826,client needs same order as last month for product 450X,Repeat Order
+1827,Repeat purchase request for Model 500Y,Repeat Order
+1828,"Another batch required urgently, same spec as previous ASAP",Repeat Order
+1829,needs reinforced handles on boxes for safety reason,Custom Spec
+1830,They are requesting a repeat of the previous order.,Repeat Order
+1831,Need 300 more of the units ordered last month.,Repeat Order
+1832,Request for non-standard dimension for container.,Custom Spec
+1833,Asked for customized sizing of the packaging.,Custom Spec
+1834,Asked for customized sizing of the packaging.,Custom Spec
+1835,trial samples needed for our new eco friendly line,New Product Demand
+1836,warehouse almost out of stock for Model Y23,Stocking Issue
+1837,Stockout reported for Model X1.,Stocking Issue
+1838,Placing a repeat request for item series 100X.,Repeat Order
+1839,First order placed for updated product variant.,New Product Demand
+1840,"Deliveryneeded immediately, client facing outage.",Urgent Need
+1841,needs reinforced handles on boxes for safety reason,Custom Spec
+1842,Placing a repeat request for item series 100X.,Repeat Order
+1843,Specification change: needs reinforced packaging.,Custom Spec
+1844,Wants special coating on the exterior.,Custom Spec
+1845,inventory outage pls expedite shipping if possible,Urgent Need
+1846,critical shortage reported need shipment by next week,Urgent Need
+1847,Asked for customized sizing of the packaging.,Custom Spec
+1848,Repeat purchase request for Model 500Y,Repeat Order
+1849,Repeat purchase request for Model 500Y,Repeat Order
+1850,Request to modify packaging dimensions before shipment,Custom Spec
+1851,interest shown in 2025X prototype by client,New Product Demand
+1852,Trial order to test new technology batch.,New Product Demand
+1853,warehouse almost out of stock for Model Y23,Stocking Issue
+1854,Exploring samples for a new product line.,New Product Demand
+1855,Repeat purchase request for Model 500Y,Repeat Order
+1856,Exploringsamples for a new product line.,New Product Demand
+1857,trial samples needed for our new eco friendly line,New Product Demand
+1858,backorders increasing need quick replenishment,Stocking Issue
+1859,Wantsspecial coating on the exterior.,Custom Spec
+1860,Trial order to test new technology batch.,New Product Demand
+1861,Placing a repeat request for item series 100X.,Repeat Order
+1862,criticalshortage reported need shipment by next week,Urgent Need
+1863,"Warehouse backorder increasing, please resupply.",Stocking Issue
+1864,client needs same order as last month for product 450X,Repeat Order
+1865,needs reinforced handles on boxes for safety reason,Custom Spec
+1866,Theyare requesting a repeat of the previous order.,Repeat Order
+1867,They are requesting a repeat of the previous order.,Repeat Order
+1868,Rush request for product A45 due to customer escalation,Urgent Need
+1869,Repeat purchase request for Model 500Y,Repeat Order
+1870,Stockout reported for Model X1.,Stocking Issue
+1871,"Requesting rush shipping, shortage reported.",Urgent Need
+1872,Rush request for product A45 due to customer escalation ASAP,Urgent Need
+1873,Exploring samples for a new product line.,New Product Demand
+1874,Askedfor customized sizing of the packaging.,Custom Spec
+1875,Trial order to test new technology batch.,New Product Demand
+1876,They are requesting a repeat of the previous order.,Repeat Order
+1877,Client exploring samples of 2024 line.,New Product Demand
+1878,critical shortage reported need shipment by next week ASAP,Urgent Need
+1879,Wants special coating on the exterior.,Custom Spec
+1880,"running low on supplies again, please arrange dispatch",Stocking Issue
+1881,"Delivery needed immediately, client facing outage. ASAP",Urgent Need
+1882,Theyare requesting a repeat of the previous order.,Repeat Order
+1883,Customized dimension required for part 780Y.,Custom Spec
+1884,inventory outage pls expedite shipping if possible,Urgent Need
+1885,Repeat purchase request for Model 500Y,Repeat Order
+1886,First order placed for updated product variant.,New Product Demand
+1887,"Delivery needed immediately, client facing outage.",Urgent Need
+1888,Specification change: needs reinforced packaging.,Custom Spec
+1889,Firstorder placed for updated product variant.,New Product Demand
+1890,Client wants another batch of 1000 units like last time.,Repeat Order
+1891,inventoryoutage pls expedite shipping if possible,Urgent Need
+1892,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1893,Placing a repeat request for item series 100X.,Repeat Order
+1894,critical shortage reported need shipment by next week,Urgent Need
+1895,warehouse almost out of stock for Model Y23,Stocking Issue
+1896,"Another batch required urgently, same spec as previous",Repeat Order
+1897,needsreinforced handles on boxes for safety reason,Custom Spec
+1898,"Another batch required urgently, same spec as previous",Repeat Order
+1899,Request for custom color matching on containers.,Custom Spec
+1900,Rush request for product a45 due to customer escalation ASAP,Urgent Need
+1901,Stockout reported for Model X1.,Stocking Issue
+1902,Need 300 more of the units ordered last month.,Repeat Order
+1903,Need 300 more of the units ordered last month.,Repeat Order
+1904,Customizeddimension required for part 780Y.,Custom Spec
+1905,Repeat purchase request for Model 500Y,Repeat Order
+1906,They are requesting a repeat of the previous order.,Repeat Order
+1907,demo units requested to evaluate updated models,New Product Demand
+1908,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1909,client needs same order as last month for product 450X,Repeat Order
+1910,Client exploring samples of 2024 line.,New Product Demand
+1911,Exploring samples for a new product line.,New Product Demand
+1912,demo units requested to evaluate updated models,New Product Demand
+1913,Requestfor non-standard dimension for container.,Custom Spec
+1914,custom size requested for container 560Z special handling needed,Custom Spec
+1915,Client exploring samples of 2024 line.,New Product Demand
+1916,"Backorderscausing delays, need resupply asap.",Stocking Issue
+1917,"running low on supplies again, please arrange dispatch",Stocking Issue
+1918,Stockoutreported for Model X1.,Stocking Issue
+1919,Request for custom color matching on containers.,Custom Spec
+1920,trial samples needed for our new eco friendly line,New Product Demand
+1921,Rushrequest for product A45 due to customer escalation,Urgent Need
+1922,needs reinforced handles on boxes for safety reason,Custom Spec
+1923,First order placed for updated product variant.,New Product Demand
+1924,Needs reinforced handles on boxes for safety reason,Custom Spec
+1925,client needs same order as last month for product 450X,Repeat Order
+1926,"Inventory running low, client requests immediate resupply.",Stocking Issue
+1927,trial samples needed for our new eco friendly line ASAP,New Product Demand
+1928,Request to modify packaging dimensions before shipment,Custom Spec
+1929,inventory outage pls expedite shipping if possible,Urgent Need
+1930,Placing a repeat request for item series 100X.,Repeat Order
+1931,Stockout reported for Model X1.,Stocking Issue
+1932,Wantsspecial coating on the exterior.,Custom Spec
+1933,needsreinforced handles on boxes for safety reason ASAP,Custom Spec
+1934,Client wants another batch of 1000 units like last time.,Repeat Order
+1935,"Out of stock reported, needs restocking.",Stocking Issue
+1936,backorders increasing need quick replenishment,Stocking Issue
+1937,Clientwants another batch of 1000 units like last time.,Repeat Order
+1938,"Backorderscausing delays, need resupply ASAP.",Stocking Issue
+1939,Request for non-standard dimension for container.,Custom Spec
+1940,Customized dimension required for part 780Y.,Custom Spec
+1941,Placing a repeat request for item series 100X.,Repeat Order
+1942,"Another batch required urgently, same spec as previous",Repeat Order
+1943,needs reinforced handles on boxes for safety reason,Custom Spec
+1944,trial samples needed for our new eco friendly line,New Product Demand
+1945,Need urgent delivery due to market launch next week.,Urgent Need
+1946,backorders increasing need quick replenishment,Stocking Issue
+1947,Rush request for product A45 due to customer escalation,Urgent Need
+1948,Stockout reported for Model X1.,Stocking Issue
+1949,Need 300 more of the units ordered last month.,Repeat Order
+1950,Placinga repeat request for item series 100X.,Repeat Order
+1951,trial samples needed for our new eco friendly line,New Product Demand
+1952,"running low on supplies again, please arrange dispatch ASAP",Stocking Issue
+1953,Specification change: needs reinforced packaging.,Custom Spec
+1954,Trialorder to test new technology batch.,New Product Demand
+1955,Trial order to test new technology batch.,New Product Demand
+1956,Wants special coating on the exterior.,Custom Spec
+1957,"Delivery needed immediately, client facing outage. ASAP",Urgent Need
+1958,Need urgent delivery due to market launch next week.,Urgent Need
+1959,interest shown in 2025X prototype by client,New Product Demand
+1960,Customized dimension required for part 780Y.,Custom Spec
+1961,Repeatpurchase request for Model 500Y,Repeat Order
+1962,"Out of stock reported, needs restocking.",Stocking Issue
+1963,client needs same order as last month for product 450X,Repeat Order
+1964,inventory outage pls expedite shipping if possible,Urgent Need
+1965,Needemergency stock replenishment by Friday.,Urgent Need
+1966,Client exploring samples of 2024 line.,New Product Demand
+1967,"Backorders causing delays, need resupply ASAP.",Stocking Issue
+1968,Wants special coating on the exterior. ASAP,Custom Spec
+1969,demo units requested to evaluate updated models,New Product Demand
+1970,custom size requested for container 560Z special handling needed,Custom Spec
+1971,demounits requested to evaluate updated models,New Product Demand
+1972,Need emergency stock replenishment by Friday.,Urgent Need
+1973,backorders increasing need quick replenishment,Stocking Issue
+1974,Specification change: needs reinforced packaging.,Custom Spec
+1975,inventory outage pls expedite shipping if possible,Urgent Need
+1976,Client wants another batch of 1000 units like last time.,Repeat Order
+1977,warehousealmost out of stock for Model Y23,Stocking Issue
+1978,warehouse almost out of stock for Model Y23,Stocking Issue
+1979,Client exploring samples of 2024 line.,New Product Demand
+1980,Exploring samples for a new product line.,New Product Demand
+1981,customsize requested for container 560Z special handling needed,Custom Spec
+1982,interest shown in 2025X prototype by client,New Product Demand
+1983,"Inventoryrunning low, client requests immediate resupply.",Stocking Issue
+1984,Exploring samples for a new product line.,New Product Demand
+1985,"Requesting rush shipping, shortage reported.",Urgent Need
+1986,Trial order to test new technology batch.,New Product Demand
+1987,demo units requested to evaluate updated models,New Product Demand
+1988,Asked for customized sizing of the packaging.,Custom Spec
+1989,Asked for customized sizing of the packaging.,Custom Spec
+1990,"Out of stock reported, needs restocking.",Stocking Issue
+1991,Client wants another batch of 1000 units like last time.,Repeat Order
+1992,"Another batch required urgently, same spec as previous",Repeat Order
+1993,"Delivery needed immediately, client facing outage.",Urgent Need
+1994,Wants special coating on the exterior.,Custom Spec
+1995,warehouse almost out of stock for Model Y23,Stocking Issue
+1996,demo units requested to evaluate updated models,New Product Demand
+1997,Repeat purchase request for Model 500Y,Repeat Order
+1998,Trial order to test new technology batch.,New Product Demand
+1999,"Outof stock reported, needs restocking.",Stocking Issue
+2000,Need 300 more of the units ordered last month.,Repeat Order
