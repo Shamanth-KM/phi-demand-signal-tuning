@@ -79,5 +79,9 @@ Confusion matrix visualization showed most common errors between adjacent demand
 │   └── lora_phi15_demand_signal_adapter/
 ├── results/
 │   └── (training logs, confusion matrix, checkpoints)
+├── scripts/
+│   ├── 01_data_preprocessing.py
+│   ├── 02_finetune_lora.py
+│   └── 03_model_training.py
 ├── requirements.txt
 ├── README.md
